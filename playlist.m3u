@@ -11,7 +11,7 @@ https://freestream.vpntester.net/memfs/374155c5-4206-4707-b38e-9dfc8f9d244a.m3u8
 #EXTINF:-1 tvg-id="ТВЦ",ТВЦ
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 
-#EXTINF:-1,НТВ
+#EXTINF:-1 tvg-id="НТВ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/800px-NTV_logo_2003.svg.png",НТВ
 http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="НТВ HD",НТВ HD
