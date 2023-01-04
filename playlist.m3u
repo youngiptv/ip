@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="ChannelOne.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg/512px-1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg.png" group-title="General",первый канал
 https://cdn11.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd?e=1671310125
 
-#EXTINF:-1 tvg-id="Россия-1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Russia_1_2010.svg/revision/latest?cb=20191218141609" group-title="General",Россия-1
+#EXTINF:-1 tvg-id="Россия-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Rossiya-1_Logo.svg/204px-Rossiya-1_Logo.svg.png" group-title="General",Россия-1
 https://freestream.vpntester.net/memfs/2a685341-d03d-4745-b88f-c2ecac8f6fcb_var0.m3u8?session=fAZ5DZKW5gWXvtExRSF2Se
 
 #EXTINF:-1 tvg-id="Россия-24",Россия-24 
