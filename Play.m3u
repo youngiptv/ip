@@ -1,0 +1,91 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ChannelOne.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg/512px-1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg.png" group-title="General",первый канал
+https://cdn11.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd?e=1671310125
+
+#EXTINF:-1 tvg-id="Россия-1",Россия-1
+https://freestream.vpntester.net/memfs/2a685341-d03d-4745-b88f-c2ecac8f6fcb_var0.m3u8?session=fAZ5DZKW5gWXvtExRSF2Se
+
+#EXTINF:-1 tvg-id="Россия-24",Россия-24 
+https://freestream.vpntester.net/memfs/374155c5-4206-4707-b38e-9dfc8f9d244a.m3u8?session=422dXPaB4YwbbnYHxrEFfW
+
+#EXTINF:-1 tvg-id="ТВЦ",ТВЦ
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+
+#EXTINF:-1,НТВ
+http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="НТВ HD",НТВ HD
+http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
+
+#EXTINF:-1 tvg-id="НТВ Сериал",НТВ Сериал
+http://ntv-hls-orig.cdnvideo.ru/th_serial/mono.m3u8
+
+#EXTINF:-1 tvg-id="НТВ Хит",НТВ Хит
+http://ntv-hls-orig.cdnvideo.ru/th_hit/mono.m3u8
+
+#EXTINF:-1 tvg-id="НТВ Право",НТВ Право
+http://ntv-hls-orig.cdnvideo.ru/th_pravo/mono.m3u8
+
+#EXTINF:-1 tvg-id="НТВ Стиль",НТВ Стиль
+http://ntv-hls-orig.cdnvideo.ru/th_style/mono.m3u8
+
+#EXTINF:-1 tvg-id="Пятый канал",Пятый канал
+
+
+#EXTINF:-1 tvg-id="Домашний",Домашний
+http://95.217.196.109:8081/russia/domashniy_sd_new/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Дом кино",Дом кино
+http://31.148.48.15/Dom_Kino/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:-1 tvg-id="РЕН ТВ",РЕН ТВ
+
+
+#EXTINF:-1 tvg-id="Мир HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mir_ru.jpg",Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="RU" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mir_24_ru.jpg" group-title="News",Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="RU" tvg-logo="https://i.imgur.com/CrFWXTD.png" group-title="Undefined",Мир (+4)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="TNTInternational.ru" tvg-logo="https://i.imgur.com/uvmCMCG.png" group-title="Entertainment" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,ТНТ International
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+
+
+#EXTINF:-1 tvg-id="Пят НИЦА",Пят НИЦА
+https://freestream.vpntester.net/memfs/98f96533-db16-4a58-aa38-87e5c460f5e0_var0.m3u8?session=BYmcutVXrwGvyinopeAGmi
+
+#EXTINF:-1 tvg-id="КРАСНОДАР",КРАСНОДАР
+https://freestream.vpntester.net/memfs/c6068476-8a79-409b-a2ca-0449102dfabd_var0.m3u8?session=kg5arJuu9eE6qojJbcfdUa
+
+#EXTINF:-1 tvg-id="Pod Moscoviye",Pod Moscoviye
+https://freestream.vpntester.net/memfs/c8c1d8f5-5309-4c06-836b-46728f566814_var0.m3u8?session=bm9KPt42uV272UD5VFLqqF
+
+#EXTINF:-1 tvg-id="Вместе РФ",Вместе РФ
+https://vmesterf.bonus-tv.ru/cdn/vmesterf/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Звезда",Звезда
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+
+#EXTINF:-1 tvg-id="Красная линия",Красная линия
+https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ТНВ-Планета",ТНВ-Планета
+
+
+#EXTINF:-1 tvg-id="ТРО Союза",ТРО Союза
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Суббота!",Суббота!
+http://31.148.48.15/Super/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="РБК",РБК
+http://online-video.rbc.ru/online/rbctvhd_1080p/index.m3u8?e=e4&t=J6aYg9
+
+#EXTINF:-1 tvg-id="Шансон ТВ",Шансон ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Матч! (Sport)",Матч! (Sport)
+https://freestream.vpntester.net/memfs/69cc5af4-c1da-497e-8664-fb283e12efbf_var0.m3u8?session=UtfWAjtQZSpvotZzXBYMxC
