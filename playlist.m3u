@@ -84,7 +84,7 @@ http://31.148.48.15/Super/index.m3u8?token=test
 #EXTINF:-1 tvg-id="РБК" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RBK_logo.svg/1200px-RBK_logo.svg.png",РБК
 http://online-video.rbc.ru/online/rbctvhd_1080p/index.m3u8?e=e4&t=J6aYg9
 
-#EXTINF:-1 tvg-id="Шансон ТВ" tvg-logo="https://shanson.tv/image/logo_160120.png",Шансон ТВ
+#EXTINF:-1 tvg-id="Шансон ТВ" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/4e/f6/4b/4ef64ba7-ee42-e5b3-077a-a953315128e9/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x600wa.png",Шансон ТВ
 http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Матч! (Sport)" tvg-logo="https://ntvplus.tv/files/image/10/60/28/3d1.png",Матч! (Sport)
