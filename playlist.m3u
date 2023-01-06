@@ -14,7 +14,7 @@ https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="НТВ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NTV_logo.svg/2560px-NTV_logo.svg.png",НТВ
 http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="НТВ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NTV_logo.svg/2560px-NTV_logo.svg.png",НТВ 
+#EXTINF:-1 tvg-id="НТВ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NTV_logo.svg/2560px-NTV_logo.svg.png",НТВ HD
 http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="НТВ Сериал" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/4/43/%D0%9D%D0%A2%D0%92_%28%D0%B3%D0%BE%D0%BB%D1%83%D0%B1%D0%BE%D0%B9_%D0%BA%D1%80%D1%83%D0%B3%29.png/revision/latest/scale-to-width-down/250?cb=20210612125424&path-prefix=ru",НТВ Сериал
@@ -29,22 +29,22 @@ http://ntv-hls-orig.cdnvideo.ru/th_pravo/mono.m3u8
 #EXTINF:-1 tvg-id="НТВ Стиль" tvg-logo="https://www.hot.net.il/UploadedImages//06_2017/Logo_NTV_Style.jpg",НТВ Стиль
 http://ntv-hls-orig.cdnvideo.ru/th_style/mono.m3u8
 
-#EXTINF:-1 tvg-id="Пятый канал",Пятый канал
+#EXTINF:-1 tvg-id="Пятый канал" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/5-tv.svg/1200px-5-tv.svg.png",Пятый канал
 
 
 #EXTINF:-1 tvg-id="Домашний" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Domashniy_tv_logo.svg/886px-Domashniy_tv_logo.svg.png",Домашний
 http://95.217.196.109:8081/russia/domashniy_sd_new/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Дом кино",Дом кино
+#EXTINF:-1 tvg-id="Дом кино" tvg-logo="https://tvnews.by/uploads/posts/2017-12/1512576993_3320113465_2.jpg",Дом кино
 http://31.148.48.15/Dom_Kino/tracks-v1a1/mono.m3u8?token=test
 
-#EXTINF:-1 tvg-id="РЕН ТВ",РЕН ТВ
+#EXTINF:-1 tvg-id="РЕН ТВ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/1200px-REN_TV_logo_2017.svg.png",РЕН ТВ
 
 
-#EXTINF:-1 tvg-id="Мир HD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mir_ru.jpg",Мир HD
+#EXTINF:-1 tvg-id="Мир HD" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/0/09/%D0%9C%D0%B8%D1%80_HD.png/revision/latest/scale-to-width-down/1200?cb=20210919144750&path-prefix=ru",Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="RU" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mir_24_ru.jpg" group-title="News",Мир 24
+#EXTINF:0 tvg-country="RU" tvg-logo="https://imgtest.mir24.tv/images/mir_24_main_logo.png" group-title="News",Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="RU" tvg-logo="https://i.imgur.com/CrFWXTD.png" group-title="Undefined",Мир (+4)
