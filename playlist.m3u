@@ -8,25 +8,25 @@ https://freestream.vpntester.net/memfs/2a685341-d03d-4745-b88f-c2ecac8f6fcb_var0
 #EXTINF:-1 tvg-id="Россия-24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/2560px-Rossiya-24_Logo.svg.png",Россия-24 
 https://freestream.vpntester.net/memfs/374155c5-4206-4707-b38e-9dfc8f9d244a.m3u8?session=422dXPaB4YwbbnYHxrEFfW
 
-#EXTINF:-1 tvg-id="ТВЦ",ТВЦ
+#EXTINF:-1 tvg-id="ТВЦ" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/7/72/TV_Tsentr_2013_Logo.svg/2560px-TV_Tsentr_2013_Logo.svg.png",ТВЦ 
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="НТВ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NTV_logo_2003.svg/800px-NTV_logo_2003.svg.png",НТВ
+#EXTINF:-1 tvg-id="НТВ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NTV_logo.svg/2560px-NTV_logo.svg.png",НТВ
 http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="НТВ HD",НТВ HD
+#EXTINF:-1 tvg-id="НТВ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NTV_logo.svg/2560px-NTV_logo.svg.png",НТВ 
 http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
 
-#EXTINF:-1 tvg-id="НТВ Сериал",НТВ Сериал
+#EXTINF:-1 tvg-id="НТВ Сериал" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/4/43/%D0%9D%D0%A2%D0%92_%28%D0%B3%D0%BE%D0%BB%D1%83%D0%B1%D0%BE%D0%B9_%D0%BA%D1%80%D1%83%D0%B3%29.png/revision/latest/scale-to-width-down/250?cb=20210612125424&path-prefix=ru",НТВ Сериал
 http://ntv-hls-orig.cdnvideo.ru/th_serial/mono.m3u8
 
-#EXTINF:-1 tvg-id="НТВ Хит",НТВ Хит
+#EXTINF:-1 tvg-id="НТВ Хит" tvg-logo="https://ntvplus.tv/files/image/01/15/16/64k.png",НТВ Хит
 http://ntv-hls-orig.cdnvideo.ru/th_hit/mono.m3u8
 
-#EXTINF:-1 tvg-id="НТВ Право",НТВ Право
+#EXTINF:-1 tvg-id="НТВ Право" tvg-logo="https://www.hot.net.il/UploadedImages//06_2017/Logo_NTV_Pravo.jpg",НТВ Право
 http://ntv-hls-orig.cdnvideo.ru/th_pravo/mono.m3u8
 
-#EXTINF:-1 tvg-id="НТВ Стиль",НТВ Стиль
+#EXTINF:-1 tvg-id="НТВ Стиль" tvg-logo="https://www.hot.net.il/UploadedImages//06_2017/Logo_NTV_Style.jpg",НТВ Стиль
 http://ntv-hls-orig.cdnvideo.ru/th_style/mono.m3u8
 
 #EXTINF:-1 tvg-id="Пятый канал",Пятый канал
