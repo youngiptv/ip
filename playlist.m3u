@@ -30,7 +30,7 @@ http://ntv-hls-orig.cdnvideo.ru/th_pravo/mono.m3u8
 http://ntv-hls-orig.cdnvideo.ru/th_style/mono.m3u8
 
 #EXTINF:-1 tvg-id="Пятый канал" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/5-tv.svg/1200px-5-tv.svg.png",Пятый канал
-
+http://212.95.49.209:8081/andr/pyatyi.stream/chunks.m3u8?nimblesessionid=53868815
 
 #EXTINF:-1 tvg-id="Домашний" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Domashniy_tv_logo.svg/886px-Domashniy_tv_logo.svg.png",Домашний
 http://95.217.196.109:8081/russia/domashniy_sd_new/playlist.m3u8
@@ -39,7 +39,7 @@ http://95.217.196.109:8081/russia/domashniy_sd_new/playlist.m3u8
 http://31.148.48.15/Dom_Kino/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-1 tvg-id="РЕН ТВ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/1200px-REN_TV_logo_2017.svg.png",РЕН ТВ
-
+http://212.95.49.209:8081/andr/rentv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Мир HD" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/0/09/%D0%9C%D0%B8%D1%80_HD.png/revision/latest/scale-to-width-down/1200?cb=20210919144750&path-prefix=ru",Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8?checkedby:iptvcat.com
@@ -52,7 +52,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8?checke
 
 #EXTINF:-1 tvg-id="TNTInternational.ru" tvg-logo="https://i.imgur.com/uvmCMCG.png" group-title="Entertainment" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,ТНТ International
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-
+http://212.95.49.209:8081/andr/tnt.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Пят НИЦА" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0_%28%D1%81_2013%29.svg/1200px-%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0_%28%D1%81_2013%29.svg.png",Пят НИЦА
 https://freestream.vpntester.net/memfs/98f96533-db16-4a58-aa38-87e5c460f5e0_var0.m3u8?session=BYmcutVXrwGvyinopeAGmi
