@@ -54,38 +54,38 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8?checke
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 
 
-#EXTINF:-1 tvg-id="Пят НИЦА",Пят НИЦА
+#EXTINF:-1 tvg-id="Пят НИЦА" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0_%28%D1%81_2013%29.svg/1200px-%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0_%28%D1%81_2013%29.svg.png",Пят НИЦА
 https://freestream.vpntester.net/memfs/98f96533-db16-4a58-aa38-87e5c460f5e0_var0.m3u8?session=BYmcutVXrwGvyinopeAGmi
 
-#EXTINF:-1 tvg-id="КРАСНОДАР",КРАСНОДАР
+#EXTINF:-1 tvg-id="КРАСНОДАР" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/hd/335/818/3.png",КРАСНОДАР
 https://freestream.vpntester.net/memfs/c6068476-8a79-409b-a2ca-0449102dfabd_var0.m3u8?session=kg5arJuu9eE6qojJbcfdUa
 
-#EXTINF:-1 tvg-id="Pod Moscoviye",Pod Moscoviye
+#EXTINF:-1 tvg-id="Pod Moscoviye" tvg-logo="https://photos.live-tv-channels.org/tv-logo/360-podmoskovye-9619.jpg",Pod Moscoviye
 https://freestream.vpntester.net/memfs/c8c1d8f5-5309-4c06-836b-46728f566814_var0.m3u8?session=bm9KPt42uV272UD5VFLqqF
 
-#EXTINF:-1 tvg-id="Вместе РФ",Вместе РФ
+#EXTINF:-1 tvg-id="Вместе РФ" tvg-logo="https://vmeste-rf.tv/upload/medialibrary/259/25959c39fd8e5df98eb72dd82c906550.jpg",Вместе РФ
 https://vmesterf.bonus-tv.ru/cdn/vmesterf/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Звезда",Звезда
+#EXTINF:-1 tvg-id="Звезда" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Zvezda_logo.svg/1200px-Zvezda_logo.svg.png",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 
-#EXTINF:-1 tvg-id="Красная линия",Красная линия
+#EXTINF:-1 tvg-id="Красная линия" tvg-logo="https://img-fotki.yandex.ru/get/102548/223641065.237/0_1fa2ee_864e9456_XXL.jpg",Красная линия
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ТНВ-Планета",ТНВ-Планета
+#EXTINF:-1 tvg-id="ТНВ-Планета" tvg-logo="https://s.tnv.ru/landing/983/TNV.jpg",ТНВ-Планета
 
 
-#EXTINF:-1 tvg-id="ТРО Союза",ТРО Союза
+#EXTINF:-1 tvg-id="ТРО Союза" tvg-logo="https://tvnews.by/uploads/posts/2017-09/1506265457_belros_logo_rus.jpg",ТРО Союза
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Суббота!",Суббота!
+#EXTINF:-1 tvg-id="Суббота!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%A1%D1%83%D0%B1%D0%B1%D0%BE%D1%82%D0%B0.png/1200px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%A1%D1%83%D0%B1%D0%B1%D0%BE%D1%82%D0%B0.png",Суббота!
 http://31.148.48.15/Super/index.m3u8?token=test
 
-#EXTINF:-1 tvg-id="РБК",РБК
+#EXTINF:-1 tvg-id="РБК" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RBK_logo.svg/1200px-RBK_logo.svg.png",РБК
 http://online-video.rbc.ru/online/rbctvhd_1080p/index.m3u8?e=e4&t=J6aYg9
 
-#EXTINF:-1 tvg-id="Шансон ТВ",Шансон ТВ
+#EXTINF:-1 tvg-id="Шансон ТВ" tvg-logo="https://shanson.tv/image/logo_160120.png",Шансон ТВ
 http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Матч! (Sport)",Матч! (Sport)
+#EXTINF:-1 tvg-id="Матч! (Sport)" tvg-logo="https://ntvplus.tv/files/image/10/60/28/3d1.png",Матч! (Sport)
 https://freestream.vpntester.net/memfs/69cc5af4-c1da-497e-8664-fb283e12efbf_var0.m3u8?session=UtfWAjtQZSpvotZzXBYMxC
