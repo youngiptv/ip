@@ -73,7 +73,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8?checke
 #EXTGRP:🇷🇺 Эфирные
 https://freestream.vpntester.net/memfs/98f96533-db16-4a58-aa38-87e5c460f5e0_var0.m3u8?session=BYmcutVXrwGvyinopeAGmi
 
-#EXTINF:-1 group-title="WINK+Aрхив" tvg-id="krasnodar",Краснодар HD
+#EXTINF:-1 tvg-id="krasnodar" tvg-logo"https://cdn-st4.rtr-vesti.ru/vh/pictures/hd/335/818/3.png",Краснодар HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://freestream.vpntester.net/memfs/c6068476-8a79-409b-a2ca-0449102dfabd_var0.m3u8?session=kg5arJuu9eE6qojJbcfdUa
 
