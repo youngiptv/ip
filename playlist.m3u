@@ -1,50 +1,65 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="ChannelOne.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg/512px-1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg.png" group-title="General",первый канал
+#EXTM3U url-tvg="https://iptvx.one/EPG_LITE" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}"
+#EXTINF:-1 tvg-id="pervy" tvg-logo="http://epg.it999.ru/img2/983.png",Первый HD
+#EXTGRP:🇷🇺 Эфирные
 https://cdn11.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd?e=1671310125
 
-#EXTINF:-1 tvg-id="Россия-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Rossiya-1_Logo.svg/204px-Rossiya-1_Logo.svg.png" group-title="General",Россия-1
-http://212.95.49.209:8081/andr/rossiya1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="rossia1" tvg-logo="http://epg.it999.ru/img2/984.png",Россия 1 HD
+#EXTGRP:🇷🇺 Эфирные
+http://cdnmg.secure.live.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
 
-#EXTINF:-1 tvg-id="Россия-24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/2560px-Rossiya-24_Logo.svg.png",Россия-24 
-https://freestream.vpntester.net/memfs/374155c5-4206-4707-b38e-9dfc8f9d244a.m3u8?session=422dXPaB4YwbbnYHxrEFfW
+#EXTINF:-1 tvg-id="rossija24" tvg-logo="http://epg.it999.ru/img2/1683.png",Россия-24
+#EXTGRP:🇷🇺 Эфирные
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 
-#EXTINF:-1 tvg-id="ТВЦ" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/7/72/TV_Tsentr_2013_Logo.svg/2560px-TV_Tsentr_2013_Logo.svg.png",ТВЦ 
+#EXTINF:-1 tvg-id="tvcentr" tvg-logo="http://epg.it999.ru/img2/649.png",ТВ Центр
+#EXTGRP:🇷🇺 Эфирные
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="НТВ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NTV_logo.svg/2560px-NTV_logo.svg.png",НТВ
+#EXTINF:-1 tvg-id="ntv" tvg-logo="http://epg.it999.ru/img2/2001.png",НТВ
+#EXTGRP:🇷🇺 Эфирные
 http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="НТВ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NTV_logo.svg/2560px-NTV_logo.svg.png",НТВ HD
+#EXTINF:-1 tvg-id="ntv" tvg-logo="http://epg.it999.ru/img2/2001.png",НТВ HD
+#EXTGRP:🇷🇺 Эфирные
 http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
 
-#EXTINF:-1 tvg-id="НТВ Сериал" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/4/43/%D0%9D%D0%A2%D0%92_%28%D0%B3%D0%BE%D0%BB%D1%83%D0%B1%D0%BE%D0%B9_%D0%BA%D1%80%D1%83%D0%B3%29.png/revision/latest/scale-to-width-down/250?cb=20210612125424&path-prefix=ru",НТВ Сериал
+#EXTINF:0  tvg-id="ntv-serial" tvg-logo="http://epg.it999.ru/img2/1754.png",НТВ Сериал
+#EXTGRP:📽️ Фильмовые
 http://ntv-hls-orig.cdnvideo.ru/th_serial/mono.m3u8
 
-#EXTINF:-1 tvg-id="НТВ Хит" tvg-logo="https://ntvplus.tv/files/image/01/15/16/64k.png",НТВ Хит
+#EXTINF:0 tvg-id="ntv-xit" tvg-logo="http://epg.it999.ru/img2/2041.png",НТВ-ХИТ
+#EXTGRP:📽️ Фильмовые
 http://ntv-hls-orig.cdnvideo.ru/th_hit/mono.m3u8
 
-#EXTINF:-1 tvg-id="НТВ Право" tvg-logo="https://www.hot.net.il/UploadedImages//06_2017/Logo_NTV_Pravo.jpg",НТВ Право
+#EXTINF:0  tvg-id="ntv-pravo" tvg-logo="http://epg.it999.ru/img2/1753.png",НТВ Право
+#EXTGRP:📽️ Фильмовые
 http://ntv-hls-orig.cdnvideo.ru/th_pravo/mono.m3u8
 
-#EXTINF:-1 tvg-id="НТВ Стиль" tvg-logo="https://www.hot.net.il/UploadedImages//06_2017/Logo_NTV_Style.jpg",НТВ Стиль
+#EXTINF:0 tvg-id="ntv-style" tvg-logo="http://epg.it999.ru/img2/1755.png",НТВ Стиль
+#EXTGRP:🇷🇺 Эфирные
 http://ntv-hls-orig.cdnvideo.ru/th_style/mono.m3u8
 
 #EXTINF:-1 tvg-id="Пятый канал" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/5-tv.svg/1200px-5-tv.svg.png",Пятый канал
 
 
-#EXTINF:-1 tvg-id="Домашний" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Domashniy_tv_logo.svg/886px-Domashniy_tv_logo.svg.png",Домашний
+#EXTINF:-1 tvg-id="domashny" tvg-logo="http://epg.it999.ru/img2/304.png",Домашний
+#EXTGRP:🇷🇺 Эфирные
 http://95.217.196.109:8081/russia/domashniy_sd_new/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Дом кино" tvg-logo="https://tvnews.by/uploads/posts/2017-12/1512576993_3320113465_2.jpg",Дом кино
+#EXTINF:0 tvg-id="domkino" tvg-logo="http://epg.it999.ru/img2/834.png",Дом Кино
+#EXTGRP:📽️ Фильмовые
 http://31.148.48.15/Dom_Kino/tracks-v1a1/mono.m3u8?token=test
 
-#EXTINF:-1 tvg-id="РЕН ТВ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/1200px-REN_TV_logo_2017.svg.png",РЕН ТВ
-http://212.95.49.209:8081/andr/rentv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="rentv" tvg-logo="http://epg.it999.ru/img2/18.png",РЕН ТВ
+#EXTGRP:🇷🇺 Эфирные
+http://flu.ttk.mx:9090/REN_TV/index.m3u8?token=orh6o
 
-#EXTINF:-1 tvg-id="Мир HD" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/0/09/%D0%9C%D0%B8%D1%80_HD.png/revision/latest/scale-to-width-down/1200?cb=20210919144750&path-prefix=ru",Мир HD
+#EXTINF:-1 tvg-id="mir" tvg-logo="http://epg.it999.ru/img2/726.png",Мир HD
+#EXTGRP:🇷🇺 Эфирные
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="RU" tvg-logo="https://imgtest.mir24.tv/images/mir_24_main_logo.png" group-title="News",Мир 24
+#EXTINF:-1 tvg-id="mir-24" tvg-logo="http://epg.it999.ru/img2/2078.png",Мир 24
+#EXTGRP:🇷🇺 Эфирные
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="RU" tvg-logo="https://i.imgur.com/CrFWXTD.png" group-title="Undefined",Мир (+4)
@@ -52,12 +67,14 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8?checke
 
 #EXTINF:-1 tvg-id="TNTInternational.ru" tvg-logo="https://i.imgur.com/uvmCMCG.png" group-title="Entertainment" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,ТНТ International
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://212.95.49.209:8081/andr/tnt.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Пят НИЦА" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0_%28%D1%81_2013%29.svg/1200px-%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0_%28%D1%81_2013%29.svg.png",Пят НИЦА
+
+#EXTINF:-1 tvg-id="piatnica" tvg-logo="http://epg.it999.ru/img2/1003.png",Пятница! HD
+#EXTGRP:🇷🇺 Эфирные
 https://freestream.vpntester.net/memfs/98f96533-db16-4a58-aa38-87e5c460f5e0_var0.m3u8?session=BYmcutVXrwGvyinopeAGmi
 
-#EXTINF:-1 tvg-id="КРАСНОДАР" tvg-logo="https://cdn-st4.rtr-vesti.ru/vh/pictures/hd/335/818/3.png",КРАСНОДАР
+#EXTINF:-1 group-title="WINK+Aрхив" tvg-id="krasnodar",Краснодар HD
+#EXTVLCOPT:http-user-agent=Mozilla 5.0
 https://freestream.vpntester.net/memfs/c6068476-8a79-409b-a2ca-0449102dfabd_var0.m3u8?session=kg5arJuu9eE6qojJbcfdUa
 
 #EXTINF:-1 tvg-id="Pod Moscoviye" tvg-logo="https://photos.live-tv-channels.org/tv-logo/360-podmoskovye-9619.jpg",Pod Moscoviye
@@ -66,7 +83,8 @@ https://freestream.vpntester.net/memfs/c8c1d8f5-5309-4c06-836b-46728f566814_var0
 #EXTINF:-1 tvg-id="Вместе РФ" tvg-logo="https://vmeste-rf.tv/upload/medialibrary/259/25959c39fd8e5df98eb72dd82c906550.jpg",Вместе РФ
 https://vmesterf.bonus-tv.ru/cdn/vmesterf/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Звезда" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Zvezda_logo.svg/1200px-Zvezda_logo.svg.png",Звезда
+#EXTINF:-1 tvg-id="zvezda" tvg-logo="http://epg.it999.ru/img2/405.png",Звезда HD
+#EXTGRP:🇷🇺 Эфирные
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 
 #EXTINF:-1 tvg-id="Красная линия" tvg-logo="https://img-fotki.yandex.ru/get/102548/223641065.237/0_1fa2ee_864e9456_XXL.jpg",Красная линия
@@ -78,14 +96,37 @@ https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3
 #EXTINF:-1 tvg-id="ТРО Союза" tvg-logo="https://tvnews.by/uploads/posts/2017-09/1506265457_belros_logo_rus.jpg",ТРО Союза
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Суббота!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%A1%D1%83%D0%B1%D0%B1%D0%BE%D1%82%D0%B0.png/1200px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%A1%D1%83%D0%B1%D0%B1%D0%BE%D1%82%D0%B0.png",Суббота!
-http://31.148.48.15/Super/index.m3u8?token=test
+#EXTINF:-1 tvg-id="super" tvg-logo="http://epg.it999.ru/img2/2288.png",Суббота! HD
+#EXTGRP:🇷🇺 Эфирные
+https://bl.uma.media/live/317845/HLS/4614144_3/1/1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="РБК" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RBK_logo.svg/1200px-RBK_logo.svg.png",РБК
+#EXTINF:-1 tvg-id="rbk" tvg-logo="http://epg.it999.ru/img2/743.png",РБК
+#EXTGRP:🇷🇺 Эфирные
 http://online-video.rbc.ru/online/rbctvhd_1080p/index.m3u8?e=e4&t=J6aYg9
 
-#EXTINF:-1 tvg-id="Шансон ТВ" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/4e/f6/4b/4ef64ba7-ee42-e5b3-077a-a953315128e9/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x600wa.png",Шансон ТВ
+#EXTINF:-1 tvg-id="shanson-tv" tvg-logo="https://epg.iptvx.one/icn/shanson-tv.png",Шансон-ТВ
+#EXTGRP:🎵 Музыкальные
 http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://epg.iptvx.one/icn/shanson-tv.png",Radio Шансон-ТВ
+#EXTGRP:🎵 Музыкальные
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 
 #EXTINF:-1 tvg-id="Матч! (Sport)" tvg-logo="https://ntvplus.tv/files/image/10/60/28/3d1.png",Матч! (Sport)
 https://freestream.vpntester.net/memfs/69cc5af4-c1da-497e-8664-fb283e12efbf_var0.m3u8?session=UtfWAjtQZSpvotZzXBYMxC
+
+#EXTINF:-1 tvg-id="match-priemer" tvg-logo="http://epg.it999.ru/img2/2736.png",Матч Премьер HD
+#EXTGRP:⛹🏿‍ Спортивные
+https://bl.uma.media/live/126866/HLS/6866944_4/1/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Cy3fsuLzaorl2j4CbpaREwtomc_sd6DlMg&usqp=CAU",Первый Музыкальный RU HD
+#EXTGRP:🎵 Музыкальные
+http://rtmp.one.by:2300
+
+#EXTINF:-1 tvg-id="tnt-music" tvg-logo="http://epg.it999.ru/img/680.png",ТНТ Music
+#EXTGRP:🎵 Музыкальные
+http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdlow.m3u8
+
+#EXTINF:-1  tvg-id="ru-tv" tvg-logo="http://epg.it999.ru/img/2277.png",RU.TV
+#EXTGRP:🎵 Музыкальные
+https://hls-03-video.webcaramba.com/rutv/live_720/index.m3u8
