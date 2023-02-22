@@ -1,6 +1,6 @@
 #EXTINF:-1 tvg-id="pervy" tvg-logo="http://epg.it999.ru/img2/983.png",Первый HD
 #EXTGRP:🇷🇺 Эфирные
-https://cdn11.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd?e=1671310125
+https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1677090141
 
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="http://epg.it999.ru/img2/984.png",Россия 1 HD
 #EXTGRP:🇷🇺 Эфирные
@@ -12,7 +12,7 @@ http://45.159.74.13/Rossia1/mono.m3u8
 
 #EXTINF:-1 tvg-id="rossija24" tvg-logo="http://epg.it999.ru/img2/1683.png",Россия-24
 #EXTGRP:🇷🇺 Эфирные
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+https://freestream.vpntester.net/memfs/2a63f6a0-db5b-44e6-82df-86efe2d572ff_output_0.m3u8?session=JL6t6mT6kzDC9KwyPh2meS
 
 #EXTINF:-1 tvg-id="tvcentr" tvg-logo="http://epg.it999.ru/img2/649.png",ТВ Центр
 #EXTGRP:🇷🇺 Эфирные
@@ -47,7 +47,7 @@ http://ntv-hls-orig.cdnvideo.ru/th_style/mono.m3u8
 
 #EXTINF:-1 tvg-id="domashny" tvg-logo="http://epg.it999.ru/img2/304.png",Домашний
 #EXTGRP:🇷🇺 Эфирные
-http://95.217.196.109:8081/russia/domashniy_sd_new/playlist.m3u8
+http://45.159.74.13/Domashniy/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="domkino" tvg-logo="http://epg.it999.ru/img2/834.png",Дом Кино
 #EXTGRP:📽️ Фильмовые
