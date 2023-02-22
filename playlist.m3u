@@ -4,9 +4,8 @@ https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1677090141
 
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="http://epg.it999.ru/img2/984.png",Россия 1 HD
 #EXTGRP:🇷🇺 Эфирные
-http://cdnmg.secure.live.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
 
-#EXTINF:-1 tvg-id="rossia1" tvg-logo="http://epg.it999.ru/img2/984.png",Россия 1
+#EXTINF:-1 tvg-id="rossia1" tvg-logo="http://epg.it999.ru/img2/984.png",Россия 1 HD
 #EXTGRP:🇷🇺 Эфирные
 http://45.159.74.13/Rossia1/mono.m3u8
 
