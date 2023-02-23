@@ -2,6 +2,10 @@
 #EXTGRP:🇷🇺 Эфирные
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1677090141
 
+#EXTINF:-1 tvg-id="pervy" tvg-logo="http://epg.it999.ru/img2/983.png",Первый HD
+#EXTGRP:🇷🇺 Эфирные
+https://cdn10.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
+
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="http://epg.it999.ru/img2/984.png",Россия 1 HD
 #EXTGRP:🇷🇺 Эфирные
 
