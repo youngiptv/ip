@@ -1,6 +1,6 @@
 #EXTINF:-1 tvg-id="pervy" tvg-logo="http://epg.it999.ru/img2/983.png",Первый HD
 #EXTGRP:🇷🇺 Эфирные
-https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1677090141
+
 
 #EXTINF:-1 tvg-id="pervy" tvg-logo="http://epg.it999.ru/img2/983.png",Первый HD
 #EXTGRP:🇷🇺 Эфирные
@@ -59,7 +59,7 @@ http://31.148.48.15/Dom_Kino/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-1 tvg-id="rentv" tvg-logo="http://epg.it999.ru/img2/18.png",РЕН ТВ
 #EXTGRP:🇷🇺 Эфирные
-http://flu.ttk.mx:9090/REN_TV/index.m3u8?token=orh6o
+
 
 #EXTINF:-1 tvg-id="mir" tvg-logo="http://epg.it999.ru/img2/726.png",Мир HD
 #EXTGRP:🇷🇺 Эфирные
@@ -78,14 +78,14 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8?checke
 
 #EXTINF:-1 tvg-id="piatnica" tvg-logo="http://epg.it999.ru/img2/1003.png",Пятница! HD
 #EXTGRP:🇷🇺 Эфирные
-https://freestream.vpntester.net/memfs/98f96533-db16-4a58-aa38-87e5c460f5e0_var0.m3u8?session=BYmcutVXrwGvyinopeAGmi
+
 
 #EXTINF:-1 tvg-id="krasnodar" tvg-logo"https://cdn-st4.rtr-vesti.ru/vh/pictures/hd/335/818/3.png",Краснодар HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
-https://freestream.vpntester.net/memfs/c6068476-8a79-409b-a2ca-0449102dfabd_var0.m3u8?session=kg5arJuu9eE6qojJbcfdUa
+
 
 #EXTINF:-1 tvg-id="Pod Moscoviye" tvg-logo="https://photos.live-tv-channels.org/tv-logo/360-podmoskovye-9619.jpg",Pod Moscoviye
-https://freestream.vpntester.net/memfs/c8c1d8f5-5309-4c06-836b-46728f566814_var0.m3u8?session=bm9KPt42uV272UD5VFLqqF
+
 
 #EXTINF:-1 tvg-id="Вместе РФ" tvg-logo="https://vmeste-rf.tv/upload/medialibrary/259/25959c39fd8e5df98eb72dd82c906550.jpg",Вместе РФ
 https://vmesterf.bonus-tv.ru/cdn/vmesterf/tracks-v1a1/mono.m3u8
@@ -120,7 +120,7 @@ http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 
 #EXTINF:-1 tvg-id="Матч! (Sport)" tvg-logo="https://ntvplus.tv/files/image/10/60/28/3d1.png",Матч! (Sport)
-https://freestream.vpntester.net/memfs/69cc5af4-c1da-497e-8664-fb283e12efbf_var0.m3u8?session=UtfWAjtQZSpvotZzXBYMxC
+
 
 #EXTINF:-1 tvg-id="match-priemer" tvg-logo="http://epg.it999.ru/img2/2736.png",Матч Премьер HD
 #EXTGRP:⛹🏿‍ Спортивные
