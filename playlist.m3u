@@ -6,9 +6,9 @@ https://cdn11.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd?e=1671310125
 #EXTGRP:🇷🇺 Эфирные
 https://cdn10.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
 
-#EXTINF:-1 tvg-id="rossia1" tvg-logo="http://epg.it999.ru/img2/984.png",Россия 1 HD
+#EXTINF:-1 tvg-id="rossia1" tvg-logo="http://epg.it999.ru/img2/984.png",Россия 1
 #EXTGRP:🇷🇺 Эфирные
-https://freestream.vpntester.net/memfs/42cefb74-d89c-4d7e-997d-437fc1acacc7_output_0.m3u8?session=nMoFCh7Mba7WVVP3GxoD7w
+http://188.143.128.22:30001/play/p2
 
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="http://epg.it999.ru/img2/984.png",Россия 1 HD
 #EXTGRP:🇷🇺 Эфирные
@@ -74,7 +74,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8?checke
 
 #EXTINF:-1 tvg-id="TNTInternational.ru" tvg-logo="https://i.imgur.com/uvmCMCG.png" group-title="Entertainment" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,ТНТ International
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://dvr3.tv.kvant-telecom.ru:8080/tnt_hd/tracks-v1a1/mono.m3u8
+http://188.143.128.22:30001/play/p19
 
 #EXTINF:-1 tvg-id="piatnica" tvg-logo="http://epg.it999.ru/img2/1003.png",Пятница! HD
 #EXTGRP:🇷🇺 Эфирные
