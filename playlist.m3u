@@ -20,7 +20,7 @@ http://45.159.74.13/Rossia1/mono.m3u8
 
 #EXTINF:-1 tvg-id="rossija24" tvg-logo="http://epg.it999.ru/img2/1683.png",Россия-24
 #EXTGRP:🇷🇺 Эфирные
-https://freestream.vpntester.net/memfs/2a63f6a0-db5b-44e6-82df-86efe2d572ff_output_0.m3u8?session=JL6t6mT6kzDC9KwyPh2meS
+http://195.3.252.117:8001/play/a00e
 
 #EXTINF:-1 tvg-id="tvcentr" tvg-logo="http://epg.it999.ru/img2/649.png",ТВ Центр
 #EXTGRP:🇷🇺 Эфирные
