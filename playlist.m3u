@@ -50,6 +50,10 @@ http://178.68.212.242:81/play/a0al
 #EXTGRP:🇷🇺 Эфирные
 https://cdn.ntv.ru/th_style/tracks-v1a1/mono.m3u8
 
+#EXTINF:0 tvg-id="ntv-style" tvg-logo="http://epg.it999.ru/img2/1755.png",НТВ Стиль
+#EXTGRP:🇷🇺 Эфирные
+https://stream201.24h.tv/hlsjwt/981d3aba2daf135afa4f7a7745dafec4a4202cfb-786-0-24h8657122-5-1299183574-1683918441-e128-5BjyZ6_dw6v14SE7J15yRHgNOZx7EVYT9vHsXpgjW8s/index.m3u8
+
 #EXTINF:-1 tvg-id="Пятый канал" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/5-tv.svg/1200px-5-tv.svg.png",Пятый канал
 http://176.222.190.76/btv/SWM/SWM_5kanal/SWM_5kanal_576p_2000kbps.m3u8
 
