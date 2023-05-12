@@ -14,7 +14,7 @@ http://178.68.212.242:82/play/a05j
 #EXTGRP:🇷🇺 Эфирные
 http://45.151.28.21:8000/play/a010/index.m3u8
 
-#EXTINF:-1 tvg-id="rossia1" tvg-logo="http://epg.it999.ru/img2/984.png",Россия-24
+#EXTINF:-1 tvg-id="rossija24" tvg-logo="http://epg.it999.ru/img2/1683.png",Россия-24
 #EXTGRP:🇷🇺 Эфирные
 http://188.68.16.246:43800/play/a00j
 
