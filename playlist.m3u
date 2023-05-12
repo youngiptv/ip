@@ -63,7 +63,7 @@ http://45.159.74.13/Domashniy/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="domkino" tvg-logo="http://epg.it999.ru/img2/834.png",Дом Кино
 #EXTGRP:📽️ Фильмовые
-http://31.148.48.15/Dom_Kino/tracks-v1a1/mono.m3u8?token=test
+http://178.68.212.242:81/play/a094
 
 #EXTINF:-1 tvg-id="rentv" tvg-logo="http://epg.it999.ru/img2/18.png",РЕН ТВ
 #EXTGRP:🇷🇺 Эфирные
@@ -82,7 +82,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8?checke
 
 #EXTINF:-1 tvg-id="TNTInternational.ru" tvg-logo="https://i.imgur.com/uvmCMCG.png" group-title="Entertainment" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,ТНТ International
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://195.3.252.117:8001/play/a00b
+http://178.68.212.242:82/play/a05q
 
 #EXTINF:-1 tvg-id="piatnica" tvg-logo="http://epg.it999.ru/img2/1003.png",Пятница! HD
 #EXTGRP:🇷🇺 Эфирные
@@ -100,7 +100,7 @@ https://vmesterf.bonus-tv.ru/cdn/vmesterf/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="zvezda" tvg-logo="http://epg.it999.ru/img2/405.png",Звезда HD
 #EXTGRP:🇷🇺 Эфирные
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+http://178.68.212.242:82/play/a05p
 
 #EXTINF:-1 tvg-id="Красная линия" tvg-logo="https://img-fotki.yandex.ru/get/102548/223641065.237/0_1fa2ee_864e9456_XXL.jpg",Красная линия
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
@@ -113,7 +113,7 @@ http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 
 #EXTINF:-1 tvg-id="super" tvg-logo="http://epg.it999.ru/img2/2288.png",Суббота! HD
 #EXTGRP:🇷🇺 Эфирные
-https://bl.uma.media/live/317845/HLS/4614144_3/1/1/playlist.m3u8
+http://178.68.212.242:82/play/a061
 
 #EXTINF:-1 tvg-id="rbk" tvg-logo="http://epg.it999.ru/img2/743.png",РБК
 #EXTGRP:🇷🇺 Эфирные
