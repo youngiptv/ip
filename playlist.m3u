@@ -32,7 +32,7 @@ http://212.73.75.200:8000/play/NTV
 
 #EXTINF:-1 tvg-id="ntv" tvg-logo="http://epg.it999.ru/img2/2001.png",НТВ HD
 #EXTGRP:🇷🇺 Эфирные
-https://cdn.ntv.ru/ntv0_hd/tracks-v5a1/mono.m3u8
+http://178.68.212.242:82/play/a05l
 
 #EXTINF:0  tvg-id="ntv-serial" tvg-logo="http://epg.it999.ru/img2/1754.png",НТВ Сериал
 #EXTGRP:📽️ Фильмовые
@@ -48,7 +48,7 @@ http://178.68.212.242:81/play/a0al
 
 #EXTINF:0 tvg-id="ntv-style" tvg-logo="http://epg.it999.ru/img2/1755.png",НТВ Стиль
 #EXTGRP:🇷🇺 Эфирные
-http://188.143.128.22:30001/play/p142
+https://ntv-hls-orig.cdnvideo.ru/th_style/index.m3u8
 
 #EXTINF:-1 tvg-id="Пятый канал" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/5-tv.svg/1200px-5-tv.svg.png",Пятый канал
 http://176.222.190.76/btv/SWM/SWM_5kanal/SWM_5kanal_576p_2000kbps.m3u8
