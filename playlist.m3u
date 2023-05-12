@@ -48,7 +48,7 @@ http://178.68.212.242:81/play/a0al
 
 #EXTINF:0 tvg-id="ntv-style" tvg-logo="http://epg.it999.ru/img2/1755.png",НТВ Стиль
 #EXTGRP:🇷🇺 Эфирные
-https://cdn.ntv.ru/th_style/index.m3u8
+https://cdn.ntv.ru/th_style/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Пятый канал" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/5-tv.svg/1200px-5-tv.svg.png",Пятый канал
 http://176.222.190.76/btv/SWM/SWM_5kanal/SWM_5kanal_576p_2000kbps.m3u8
