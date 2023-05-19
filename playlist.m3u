@@ -28,11 +28,11 @@ https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ntv" tvg-logo="http://epg.it999.ru/img2/2001.png",НТВ
 #EXTGRP:🇷🇺 Эфирные
-http://212.73.75.200:8000/play/NTV
+http://178.68.212.242:82/play/a05l
 
 #EXTINF:-1 tvg-id="ntv" tvg-logo="http://epg.it999.ru/img2/2001.png",НТВ HD
 #EXTGRP:🇷🇺 Эфирные
-http://178.68.212.242:82/play/a05l
+https://cdn.ntv.ru/ntv0_hd/index.m3u8?filter.tracks=v3v4v5a1l1t1
 
 #EXTINF:0  tvg-id="ntv-serial" tvg-logo="http://epg.it999.ru/img2/1754.png",НТВ Сериал
 #EXTGRP:📽️ Фильмовые
@@ -50,12 +50,8 @@ http://178.68.212.242:81/play/a0al
 #EXTGRP:🇷🇺 Эфирные
 https://cdn.ntv.ru/th_style/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-id="ntv-style" tvg-logo="http://epg.it999.ru/img2/1755.png",НТВ Стиль
-#EXTGRP:🇷🇺 Эфирные
-https://stream201.24h.tv/hlsjwt/981d3aba2daf135afa4f7a7745dafec4a4202cfb-786-0-24h8657122-5-1299183574-1683918441-e128-5BjyZ6_dw6v14SE7J15yRHgNOZx7EVYT9vHsXpgjW8s/index.m3u8
-
 #EXTINF:-1 tvg-id="Пятый канал" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/5-tv.svg/1200px-5-tv.svg.png",Пятый канал
-http://176.222.190.76/btv/SWM/SWM_5kanal/SWM_5kanal_576p_2000kbps.m3u8
+http://178.160.249.210:8005/play/a080/index.m3u8
 
 #EXTINF:-1 tvg-id="domashny" tvg-logo="http://epg.it999.ru/img2/304.png",Домашний
 #EXTGRP:🇷🇺 Эфирные
@@ -67,7 +63,7 @@ http://178.68.212.242:81/play/a094
 
 #EXTINF:-1 tvg-id="rentv" tvg-logo="http://epg.it999.ru/img2/18.png",РЕН ТВ
 #EXTGRP:🇷🇺 Эфирные
-http://176.222.190.76/btv/SWM/RenTV/RenTV_576p_2000kbps.m3u8
+http://81.177.197.13:8000/play/a00a/index.m3u8
 
 #EXTINF:-1 tvg-id="mir" tvg-logo="http://epg.it999.ru/img2/726.png",Мир HD
 #EXTGRP:🇷🇺 Эфирные
@@ -86,7 +82,7 @@ http://178.68.212.242:82/play/a05q
 
 #EXTINF:-1 tvg-id="piatnica" tvg-logo="http://epg.it999.ru/img2/1003.png",Пятница! HD
 #EXTGRP:🇷🇺 Эфирные
-http://176.222.190.76/btv/SWM/Pyatnica_KZ/Pyatnica_KZ_576p_2000kbps.m3u8
+http://178.160.249.210:8006/play/a02x/index.m3u8
 
 #EXTINF:-1 tvg-id="krasnodar" tvg-logo"https://cdn-st4.rtr-vesti.ru/vh/pictures/hd/335/818/3.png",Краснодар HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
