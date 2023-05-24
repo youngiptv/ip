@@ -8,7 +8,7 @@ https://cdn10.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
 
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="http://epg.it999.ru/img2/984.png",Россия 1
 #EXTGRP:🇷🇺 Эфирные
-http://178.160.249.210:8005/play/a07y/index.m3u8
+http://81.177.197.13:8000/play/a00k/index.m3u8
 
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="http://epg.it999.ru/img2/984.png",Россия 1
 #EXTGRP:🇷🇺 Эфирные
@@ -16,7 +16,7 @@ http://178.160.249.210:8006/play/a003/index.m3u8
 
 #EXTINF:-1 tvg-id="rossija24" tvg-logo="http://epg.it999.ru/img2/1683.png",Россия-24
 #EXTGRP:🇷🇺 Эфирные
-http://188.68.16.246:43800/play/a00j
+http://81.177.197.13:8000/play/a00l/index.m3u8
 
 #EXTINF:-1 tvg-id="rossija24" tvg-logo="http://epg.it999.ru/img2/1683.png",Россия-24
 #EXTGRP:🇷🇺 Эфирные
@@ -28,7 +28,7 @@ https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ntv" tvg-logo="http://epg.it999.ru/img2/2001.png",НТВ
 #EXTGRP:🇷🇺 Эфирные
-http://178.160.249.210:8006/play/a005/index.m3u8
+http://81.177.197.13:8000/play/a003/index.m3u8
 
 #EXTINF:-1 tvg-id="ntv" tvg-logo="http://epg.it999.ru/img2/2001.png",НТВ HD
 #EXTGRP:🇷🇺 Эфирные
@@ -51,7 +51,7 @@ http://178.68.212.242:81/play/a0al
 https://cdn.ntv.ru/th_style/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Пятый канал" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/5-tv.svg/1200px-5-tv.svg.png",Пятый канал
-http://178.160.249.210:8005/play/a080/index.m3u8
+http://81.177.197.13:8000/play/a004/index.m3u8
 
 #EXTINF:-1 tvg-id="domashny" tvg-logo="http://epg.it999.ru/img2/304.png",Домашний
 #EXTGRP:🇷🇺 Эфирные
