@@ -8,7 +8,7 @@ https://cdn10.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
 
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="http://epg.it999.ru/img2/984.png",Россия 1
 #EXTGRP:🇷🇺 Эфирные
-http://178.68.212.242:82/play/a05j
+http://178.160.249.210:8005/play/a07y/index.m3u8
 
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="http://epg.it999.ru/img2/984.png",Россия 1
 #EXTGRP:🇷🇺 Эфирные
@@ -28,7 +28,7 @@ https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ntv" tvg-logo="http://epg.it999.ru/img2/2001.png",НТВ
 #EXTGRP:🇷🇺 Эфирные
-http://178.68.212.242:82/play/a05l
+http://178.160.249.210:8006/play/a005/index.m3u8
 
 #EXTINF:-1 tvg-id="ntv" tvg-logo="http://epg.it999.ru/img2/2001.png",НТВ HD
 #EXTGRP:🇷🇺 Эфирные
