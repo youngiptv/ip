@@ -34,25 +34,21 @@ http://81.177.197.13:8000/play/a003/index.m3u8
 #EXTGRP:🇷🇺 Эфирные
 https://cdn.ntv.ru/ntv0_hd/index.m3u8?filter.tracks=v3v4v5a1l1t1
 
-#EXTINF:-1 tvg-id="ntv" tvg-logo="http://epg.it999.ru/img2/2001.png",НТВ HD
-#EXTGRP:🇷🇺 Эфирные
-https://stream202.24h.tv/hlsjwt/93aac6ea08e15ba071414818f5d1df18d3fd3d65-220-0-24h9078351-5-1845108140-1686163358-e128-KlPQ6uCEWGG1YYMcz2SYtt8dqcFusAocVESlgqdm_dQ/index.m3u8
-
 #EXTINF:0  tvg-id="ntv-serial" tvg-logo="http://epg.it999.ru/img2/1754.png",НТВ Сериал
 #EXTGRP:📽️ Фильмовые
-https://ip3.pokaz.me:1443/509/2023/06/07/18/38/37-06000.ts?wmsAuthSign=1686181064p271i92i052i901Scb01d0e3d90f9ddb67d2fae97cbf0f2e
+http://178.160.249.210:8005/play/a06i/index.m3u8
 
 #EXTINF:0 tvg-id="ntv-xit" tvg-logo="http://epg.it999.ru/img2/2041.png",НТВ-ХИТ
 #EXTGRP:📽️ Фильмовые
-https://stream202.24h.tv/hlsjwt/93aac6ea08e15ba071414818f5d1df18d3fd3d65-3781-0-24h9078351-5-1845108140-1686163316-e128-svnpGDRNUXHCDZZsNA4A5XFmdFUKrRR0edXcqnp-4OU/index.m3u8
+http://178.160.249.210:8005/play/a06l/index.m3u8
 
 #EXTINF:0  tvg-id="ntv-pravo" tvg-logo="http://epg.it999.ru/img2/1753.png",НТВ Право
 #EXTGRP:📽️ Фильмовые
-https://stream202.24h.tv/hlsjwt/93aac6ea08e15ba071414818f5d1df18d3fd3d65-785-0-24h9078351-5-1845108140-1686163274-e128-3VTUKtfhchVB3ZLsAVSzzEqJQsCm353aSR9tQklTELc/index.m3u8
+https://cdn.ntv.ru/th_pravo/index.m3u8
 
 #EXTINF:0 tvg-id="ntv-style" tvg-logo="http://epg.it999.ru/img2/1755.png",НТВ Стиль
 #EXTGRP:🇷🇺 Эфирные
-https://stream201.24h.tv/hlsjwt/93aac6ea08e15ba071414818f5d1df18d3fd3d65-786-0-24h9078351-5-1845108140-1686163194-e128-FMWDOPqehbv-JZEm2WxA9EKm7BBEalcQmm_rooiRt6M/index.m3u8
+https://cdn.ntv.ru/th_style/index.m3u8
 
 #EXTINF:-1 tvg-id="Пятый канал" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/5-tv.svg/1200px-5-tv.svg.png",Пятый канал
 http://81.177.197.13:8000/play/a004/index.m3u8
