@@ -82,11 +82,11 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8?checke
 
 #EXTINF:-1 tvg-id="TNTInternational.ru" tvg-logo="https://i.imgur.com/uvmCMCG.png" group-title="Entertainment" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,ТНТ International
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://178.68.212.242:82/play/a05q
+
 
 #EXTINF:-1 tvg-id="piatnica" tvg-logo="http://epg.it999.ru/img2/1003.png",Пятница! HD
 #EXTGRP:🇷🇺 Эфирные
-http://178.160.249.210:8006/play/a02x/index.m3u8
+http://178.160.249.210:8005/play/a086/index.m3u8
 
 #EXTINF:-1 tvg-id="krasnodar" tvg-logo"https://cdn-st4.rtr-vesti.ru/vh/pictures/hd/335/818/3.png",Краснодар HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
@@ -100,7 +100,7 @@ https://vmesterf.bonus-tv.ru/cdn/vmesterf/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="zvezda" tvg-logo="http://epg.it999.ru/img2/405.png",Звезда HD
 #EXTGRP:🇷🇺 Эфирные
-http://178.68.212.242:82/play/a05p
+http://178.160.249.210:8005/play/a088/index.m3u8
 
 #EXTINF:-1 tvg-id="Красная линия" tvg-logo="https://img-fotki.yandex.ru/get/102548/223641065.237/0_1fa2ee_864e9456_XXL.jpg",Красная линия
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
@@ -113,7 +113,7 @@ http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 
 #EXTINF:-1 tvg-id="super" tvg-logo="http://epg.it999.ru/img2/2288.png",Суббота! HD
 #EXTGRP:🇷🇺 Эфирные
-http://178.68.212.242:82/play/a061
+https://rec102.24h.tv/hlsjwt/93aac6ea08e15ba071414818f5d1df18d3fd3d65-3930-0-24h9078351-5-1845108140-1686165093-e128-I104L5PLlE3SaXP6xC-G9U50tYwEXtNe9sJOE_d3Ouk/index.m3u8
 
 #EXTINF:-1 tvg-id="rbk" tvg-logo="http://epg.it999.ru/img2/743.png",РБК
 #EXTGRP:🇷🇺 Эфирные
