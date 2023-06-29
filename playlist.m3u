@@ -12,7 +12,7 @@ http://81.177.197.13:8000/play/a00k/index.m3u8
 
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="http://epg.it999.ru/img2/984.png",Россия 1
 #EXTGRP:🇷🇺 Эфирные
-http://192.162.64.222:4000/play/a00f/index.m3u8
+http://europe3.livetv.az/russia/rossiya_1_sd_new_2023/chunks.m3u8
 
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="http://epg.it999.ru/img2/984.png",Россия 1 HD
 #EXTGRP:🇷🇺 Эфирные
@@ -26,9 +26,12 @@ http://81.177.197.13:8000/play/a00l/index.m3u8
 #EXTGRP:🇷🇺 Эфирные
 http://195.3.252.117:8001/play/a00e
 
+#EXTINF:-1 ,РОССИЯ РТР
+http://45.159.74.13:80/RTRPlaneta/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 tvg-id="tvcentr" tvg-logo="http://epg.it999.ru/img2/649.png",ТВ Центр
 #EXTGRP:🇷🇺 Эфирные
-http://192.162.64.222:4000/play/a00i/index.m3u8
+http://81.177.197.13:8000/play/a007/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tvcentr" tvg-logo="http://epg.it999.ru/img2/649.png",ТВ Центр HD
 #EXTGRP:🇷🇺 Эфирные
@@ -40,27 +43,30 @@ http://81.177.197.13:8000/play/a003/index.m3u8
 
 #EXTINF:-1 tvg-id="ntv" tvg-logo="http://epg.it999.ru/img2/2001.png",НТВ HD
 #EXTGRP:🇷🇺 Эфирные
-https://cdn.ntv.ru/ntv0_hd/index.m3u8?filter.tracks=v3v4v5a1l1t1
+https://sirius.greenhosting.ru/NtvRu/mono.m3u8
+
+#EXTINF:-1 ,НТВ-Мир
+http://streamer1.ruslanatv.ru:80/russia/ntv_mir_2023/chunks.m3u8
 
 #EXTINF:0  tvg-id="ntv-serial" tvg-logo="http://epg.it999.ru/img2/1754.png",НТВ Сериал
 #EXTGRP:📽️ Фильмовые
-https://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
+http://185.23.80.25:8080/lb/NTVSerial/index.m3u8?token1=c18b404b3150d2e216835a2801030df7
 
 #EXTINF:0 tvg-id="ntv-xit" tvg-logo="http://epg.it999.ru/img2/2041.png",НТВ-ХИТ
 #EXTGRP:📽️ Фильмовые
-http://192.162.64.222:5100/play/a02l/index.m3u8
+http://streamer1.ruslanatv.ru:80/russia/ntv_hit_2023/chunks.m3u8
 
 #EXTINF:0 tvg-id="ntv-xit" tvg-logo="http://epg.it999.ru/img2/2041.png",НТВ-ХИТ
 #EXTGRP:📽️ Фильмовые
-https://cdn.ntv.ru/th_hit/mono.m3u8
+http://185.23.80.25:8080/lb/NTVXit/index.m3u8?token1=c18b404b3150d2e216835a2801030df7
 
 #EXTINF:0  tvg-id="ntv-pravo" tvg-logo="http://epg.it999.ru/img2/1753.png",НТВ Право
 #EXTGRP:📽️ Фильмовые
-https://cdn.ntv.ru/th_pravo/index.m3u8
+http://185.23.80.25:8080/lb/NTVPravo/index.m3u8?token1=c18b404b3150d2e216835a2801030df7
 
 #EXTINF:0 tvg-id="ntv-style" tvg-logo="http://epg.it999.ru/img2/1755.png",НТВ Стиль
 #EXTGRP:🇷🇺 Эфирные
-https://cdn.ntv.ru/th_style/index.m3u8
+http://185.23.80.25:8080/lb/NTVStil/index.m3u8?token1=c18b404b3150d2e216835a2801030df7
 
 #EXTINF:-1 ,ОТР
 http://185.23.80.26:8080/lb/OTR/tracks-v1a1/rewind-7150.m3u8
@@ -77,7 +83,7 @@ http://45.159.74.13/Domashniy/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="domkino" tvg-logo="http://epg.it999.ru/img2/834.png",Дом Кино
 #EXTGRP:📽️ Фильмовые
-http://192.162.64.222:5100/play/a01y/index.m3u8
+http://streamer1.ruslanatv.ru:80/russia/dom_kino_2023/chunks.m3u8
 
 #EXTINF:-1 tvg-id="rentv" tvg-logo="http://epg.it999.ru/img2/18.png",РЕН ТВ
 #EXTGRP:🇷🇺 Эфирные
@@ -92,15 +98,18 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8?checked
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="RU" tvg-logo="https://i.imgur.com/CrFWXTD.png" group-title="Undefined",Мир (+4)
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8?checkedby:iptvcat.com
+https://sirius.greenhosting.ru/MirTV/playlist.m3u8
+
+#EXTINF:-1 ,НАШЕ НОВОЕ КИНО
+http://europe3.livetv.az:80/russia/nashe_novoe_kino_sd_new_2023/playlist.m3u8?token2=c68c3f53dddfa33c89db8df2d5ea01ab
 
 #EXTINF:-1 tvg-id="TNTInternational.ru" tvg-logo="https://i.imgur.com/uvmCMCG.png" group-title="Entertainment" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,ТНТ International
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://192.162.64.222:4000/play/a00h/index.m3u8
+https://sirius.greenhosting.ru/TNT/mono.m3u8
 
 #EXTINF:-1 tvg-id="piatnica" tvg-logo="http://epg.it999.ru/img2/1003.png",Пятница! HD
 #EXTGRP:🇷🇺 Эфирные
-http://192.162.64.222:4000/play/a027/index.m3u8
+http://europe3.livetv.az/russia/pyatnica_sd_new_2023/playlist.m3u8
 
 #EXTINF:-1 tvg-id="krasnodar" tvg-logo"https://cdn-st4.rtr-vesti.ru/vh/pictures/hd/335/818/3.png",Краснодар HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
@@ -114,7 +123,7 @@ https://vmesterf.bonus-tv.ru/cdn/vmesterf/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="zvezda" tvg-logo="http://epg.it999.ru/img2/405.png",Звезда HD
 #EXTGRP:🇷🇺 Эфирные
-http://192.162.64.222:4000/play/a00o/index.m3u8
+https://sirius.greenhosting.ru/Zvezda/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Красная линия" tvg-logo="https://img-fotki.yandex.ru/get/102548/223641065.237/0_1fa2ee_864e9456_XXL.jpg",Красная линия
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
@@ -127,7 +136,7 @@ http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 
 #EXTINF:-1 tvg-id="super" tvg-logo="http://epg.it999.ru/img2/2288.png",Суббота! HD
 #EXTGRP:🇷🇺 Эфирные
-http://192.162.64.222:4000/play/a00w/index.m3u8
+https://bl.uma.media/live/317845/HLS_R/4280320_3/2/1/tracks-a1v1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="rbk" tvg-logo="http://epg.it999.ru/img2/743.png",РБК
 #EXTGRP:🇷🇺 Эфирные
@@ -135,7 +144,7 @@ http://online-video.rbc.ru/online/rbctvhd_1080p/index.m3u8?e=e4&t=J6aYg9
 
 #EXTINF:-1 tvg-id="shanson-tv" tvg-logo="https://epg.iptvx.one/icn/shanson-tv.png",Шансон-ТВ
 #EXTGRP:🎵 Музыкальные
-http://192.162.64.222:4000/play/a067/index.m3u8
+http://europe3.livetv.az/russia/shanson_sd_new_2023/playlist.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://epg.iptvx.one/icn/shanson-tv.png",Radio Шансон-ТВ
 #EXTGRP:🎵 Музыкальные
