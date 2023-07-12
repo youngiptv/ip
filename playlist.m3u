@@ -72,7 +72,7 @@ https://livetv.mylifeisgood.ml/channels/ntvstyle24
 http://81.177.197.13:8000/play/a00m/playlist.m3u8
 
 #EXTINF:-1 ,САРАФАН
-http://live2.tvg.ge:8082/tv/SARAFAN_SD/playlist.m3u8
+http://188.113.190.15:80/165/mono.m3u8
 
 #EXTINF:-1 tvg-id="Пятый канал" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/5-tv.svg/1200px-5-tv.svg.png",Пятый канал
 http://81.177.197.13:8000/play/a004/index.m3u8
@@ -91,7 +91,7 @@ http://81.177.197.13:8000/play/a00a/index.m3u8
 
 #EXTINF:-1 tvg-id="mir" tvg-logo="http://epg.it999.ru/img2/726.png",Мир HD
 #EXTGRP:🇷🇺 Эфирные
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8?checkedby:iptvcat.com
+http://24ch.iptvsmotri.ru:80/belvk5y/8BtlEqLZp4SWtxZBQIOnw6kNxksTH6ysLhI9nITWNj4ntPNpup7Dhp0VFtFEcUF3_03.php?name=0997cfd9-782e-4ef0-842f-6c981c40a1aa
 
 #EXTINF:-1 tvg-id="mir-24" tvg-logo="http://epg.it999.ru/img2/2078.png",Мир 24
 #EXTGRP:🇷🇺 Эфирные
