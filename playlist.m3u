@@ -16,7 +16,7 @@ http://europe3.livetv.az/russia/rossiya_1_sd_new_2023/chunks.m3u8
 
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="http://epg.it999.ru/img2/984.png",Россия 1 HD
 #EXTGRP:🇷🇺 Эфирные
-http://158.101.194.132:8080/channel/n5a8fb807/index.m3u8?q=104c0d2277462a117ba608bec5675ed1
+http://188.113.190.15:80/172/playlist.m3u8
 
 #EXTINF:-1 tvg-id="rossija24" tvg-logo="http://epg.it999.ru/img2/1683.png",Россия-24
 #EXTGRP:🇷🇺 Эфирные
