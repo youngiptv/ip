@@ -1,10 +1,10 @@
 #EXTINF:-1 tvg-id="pervy" tvg-logo="http://epg.it999.ru/img2/983.png",Первый HD
 #EXTGRP:🇷🇺 Эфирные
-https://cdn11.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd?e=1671310125
+http://109.200.135.130:8080/ort_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="pervy" tvg-logo="http://epg.it999.ru/img2/983.png",Первый HD
 #EXTGRP:🇷🇺 Эфирные
-https://cdn10.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
+http://31.134.132.245:8080/ort_hd/index.m3u8
 
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="http://epg.it999.ru/img2/984.png",Россия 1
 #EXTGRP:🇷🇺 Эфирные
