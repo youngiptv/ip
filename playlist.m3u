@@ -12,7 +12,7 @@ http://81.177.197.13:8000/play/a00k/index.m3u8
 
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="http://epg.it999.ru/img2/984.png",Россия 1
 #EXTGRP:🇷🇺 Эфирные
-http://europe3.livetv.az/russia/rossiya_1_sd_new_2023/chunks.m3u8
+http://178.212.236.2/NatGeo/index.m3u8
 
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="http://epg.it999.ru/img2/984.png",Россия 1 HD
 #EXTGRP:🇷🇺 Эфирные
@@ -24,7 +24,7 @@ http://81.177.197.13:8000/play/a00l/index.m3u8
 
 #EXTINF:-1 tvg-id="rossija24" tvg-logo="http://epg.it999.ru/img2/1683.png",Россия-24
 #EXTGRP:🇷🇺 Эфирные
-http://europe3.livetv.az/russia/rossiya24_sd_new_2023/playlist.m3u8?token2=c68c3f53dddfa33c89db8df2d5ea01ab
+http://cloud17.05cdn.wf:8080/ch044/index.m3u8?token=35e357c4aee0901c8c1d95db5a1f61969a14b959d
 
 #EXTINF:-1 ,РТР ПЛАНЕТА
 http://tbs01-edge11.itdc.ge:80/rtr/index.m3u8
@@ -101,7 +101,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8?checked
 https://sirius.greenhosting.ru/MirTV/playlist.m3u8
 
 #EXTINF:-1 ,НАШЕ НОВОЕ КИНО
-http://europe3.livetv.az:80/russia/nashe_novoe_kino_sd_new_2023/playlist.m3u8?token2=c68c3f53dddfa33c89db8df2d5ea01ab
+http://cdn-cache01.voka.tv:80/live/75-req_req_5k_v5.m3u8
 
 #EXTINF:-1 tvg-id="TNTInternational.ru" tvg-logo="https://i.imgur.com/uvmCMCG.png" group-title="Entertainment" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,ТНТ International
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
@@ -109,7 +109,7 @@ https://sirius.greenhosting.ru/TNT/mono.m3u8
 
 #EXTINF:-1 tvg-id="piatnica" tvg-logo="http://epg.it999.ru/img2/1003.png",Пятница! HD
 #EXTGRP:🇷🇺 Эфирные
-http://europe3.livetv.az/russia/pyatnica_sd_new_2023/playlist.m3u8
+http://cloud17.05cdn.wf:8080/ch035/index.m3u8?token=35e357c4aee0901c8c1d95db5a1f61968ef41959d
 
 #EXTINF:-1 tvg-id="krasnodar" tvg-logo"https://cdn-st4.rtr-vesti.ru/vh/pictures/hd/335/818/3.png",Краснодар HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
@@ -144,7 +144,7 @@ https://e4-online-video.rbc.ru/online2/rbctvhd_360p/index.m3u8?e=e4&t=QTBoBs
 
 #EXTINF:-1 tvg-id="shanson-tv" tvg-logo="https://epg.iptvx.one/icn/shanson-tv.png",Шансон-ТВ
 #EXTGRP:🎵 Музыкальные
-http://europe3.livetv.az/russia/shanson_sd_new_2023/playlist.m3u8
+http://cdn-cache01.voka.tv:80/live/235-req_req_5k_v5.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://epg.iptvx.one/icn/shanson-tv.png",Radio Шансон-ТВ
 #EXTGRP:🎵 Музыкальные
