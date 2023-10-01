@@ -12,7 +12,7 @@ http://81.177.197.13:8000/play/a00k/index.m3u8
 
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="http://epg.it999.ru/img2/984.png",Россия 1
 #EXTGRP:🇷🇺 Эфирные
-http://178.212.236.2/NatGeo/index.m3u8
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kostroma/russia1-sd/index.m3u8
 
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="http://epg.it999.ru/img2/984.png",Россия 1 HD
 #EXTGRP:🇷🇺 Эфирные
@@ -24,7 +24,7 @@ http://81.177.197.13:8000/play/a00l/index.m3u8
 
 #EXTINF:-1 tvg-id="rossija24" tvg-logo="http://epg.it999.ru/img2/1683.png",Россия-24
 #EXTGRP:🇷🇺 Эфирные
-http://cloud17.05cdn.wf:8080/ch044/index.m3u8?token=35e357c4aee0901c8c1d95db5a1f61969a14b959d
+http://ucdn.beetv.kz:80/btv/live/hls/000000198.m3u8
 
 #EXTINF:-1 ,РТР ПЛАНЕТА
 http://tbs01-edge11.itdc.ge:80/rtr/index.m3u8
@@ -46,7 +46,7 @@ http://81.177.197.13:8000/play/a003/index.m3u8
 https://sirius.greenhosting.ru/NtvRu/mono.m3u8
 
 #EXTINF:-1 ,НТВ-Мир
-http://streamer1.ruslanatv.ru:80/russia/ntv_mir_2023/chunks.m3u8
+http://ucdn.beetv.kz:80/btv/live/hls/000000079.m3u8
 
 #EXTINF:0  tvg-id="ntv-serial" tvg-logo="http://epg.it999.ru/img2/1754.png",НТВ Сериал
 #EXTGRP:📽️ Фильмовые
@@ -83,7 +83,7 @@ http://45.159.74.13/Domashniy/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="domkino" tvg-logo="http://epg.it999.ru/img2/834.png",Дом Кино
 #EXTGRP:📽️ Фильмовые
-http://streamer1.ruslanatv.ru:80/russia/dom_kino_2023/chunks.m3u8
+http://cdn-cache01.voka.tv/live/5105-req_req_5k_v5.m3u8?token=8f30842romab86c
 
 #EXTINF:-1 tvg-id="rentv" tvg-logo="http://epg.it999.ru/img2/18.png",РЕН ТВ
 #EXTGRP:🇷🇺 Эфирные
@@ -109,7 +109,7 @@ https://sirius.greenhosting.ru/TNT/mono.m3u8
 
 #EXTINF:-1 tvg-id="piatnica" tvg-logo="http://epg.it999.ru/img2/1003.png",Пятница! HD
 #EXTGRP:🇷🇺 Эфирные
-http://cloud17.05cdn.wf:8080/ch035/index.m3u8?token=35e357c4aee0901c8c1d95db5a1f61968ef41959d
+http://91.197.104.34/friday/playlist.m3u8
 
 #EXTINF:-1 tvg-id="krasnodar" tvg-logo"https://cdn-st4.rtr-vesti.ru/vh/pictures/hd/335/818/3.png",Краснодар HD
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
@@ -148,7 +148,7 @@ http://cdn-cache01.voka.tv:80/live/235-req_req_5k_v5.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://epg.iptvx.one/icn/shanson-tv.png",Radio Шансон-ТВ
 #EXTGRP:🎵 Музыкальные
-http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
 
 #EXTINF:-1 tvg-id="Матч! (Sport)" tvg-logo="https://ntvplus.tv/files/image/10/60/28/3d1.png",Матч! (Sport)
 
