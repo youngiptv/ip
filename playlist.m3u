@@ -27,7 +27,7 @@ http://81.177.197.13:8000/play/a00l/index.m3u8
 http://ucdn.beetv.kz:80/btv/live/hls/000000198.m3u8
 
 #EXTINF:-1 ,РТР ПЛАНЕТА
-http://tbs01-edge11.itdc.ge:80/rtr/index.m3u8
+https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_euro/playlist_3.m3u8?md5=M-QBhlLmMwFiaLgTIXiSXQ&e=1697133780&hls_proxy_host=70b013ca21e8364cd537747cf862272b
 
 #EXTINF:-1 tvg-id="tvcentr" tvg-logo="http://epg.it999.ru/img2/649.png",ТВ Центр
 #EXTGRP:🇷🇺 Эфирные
@@ -83,7 +83,7 @@ http://45.159.74.13/Domashniy/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="domkino" tvg-logo="http://epg.it999.ru/img2/834.png",Дом Кино
 #EXTGRP:📽️ Фильмовые
-http://cdn-cache01.voka.tv/live/5105-req_req_5k_v5.m3u8?token=8f30842romab86c
+https://nstreamportal.ru:443/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy9lNzU0ODZiYy00YmYyLTRkNDgtODhmOS1hMDk3ZWQwNzU4MDUvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
 
 #EXTINF:-1 tvg-id="rentv" tvg-logo="http://epg.it999.ru/img2/18.png",РЕН ТВ
 #EXTGRP:🇷🇺 Эфирные
@@ -101,7 +101,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8?checked
 https://sirius.greenhosting.ru/MirTV/playlist.m3u8
 
 #EXTINF:-1 ,НАШЕ НОВОЕ КИНО
-http://cdn-cache01.voka.tv:80/live/75-req_req_5k_v5.m3u8
+http://91.197.104.34:8080/NasheNovoeKino/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="TNTInternational.ru" tvg-logo="https://i.imgur.com/uvmCMCG.png" group-title="Entertainment" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,ТНТ International
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
@@ -140,7 +140,7 @@ https://bl.uma.media/live/317845/HLS_R/4280320_3/2/1/tracks-a1v1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="rbk" tvg-logo="http://epg.it999.ru/img2/743.png",РБК
 #EXTGRP:🇷🇺 Эфирные
-https://e4-online-video.rbc.ru/online2/rbctvhd_360p/index.m3u8?e=e4&t=QTBoBs
+http://online-video.rbc.ru/online/rbctvhd_1080p/index.m3u8?e=e6&t=dPWOIS
 
 #EXTINF:-1 tvg-id="shanson-tv" tvg-logo="https://epg.iptvx.one/icn/shanson-tv.png",Шансон-ТВ
 #EXTGRP:🎵 Музыкальные
