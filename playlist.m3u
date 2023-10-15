@@ -27,7 +27,7 @@ http://81.177.197.13:8000/play/a00l/index.m3u8
 http://ucdn.beetv.kz:80/btv/live/hls/000000198.m3u8
 
 #EXTINF:-1 ,РТР ПЛАНЕТА
-https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_euro/playlist_3.m3u8?md5=M-QBhlLmMwFiaLgTIXiSXQ&e=1697133780&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+http://91.196.39.252:4000/play/a00s
 
 #EXTINF:-1 tvg-id="tvcentr" tvg-logo="http://epg.it999.ru/img2/649.png",ТВ Центр
 #EXTGRP:🇷🇺 Эфирные
@@ -144,7 +144,7 @@ http://online-video.rbc.ru/online/rbctvhd_1080p/index.m3u8?e=e6&t=dPWOIS
 
 #EXTINF:-1 tvg-id="shanson-tv" tvg-logo="https://epg.iptvx.one/icn/shanson-tv.png",Шансон-ТВ
 #EXTGRP:🎵 Музыкальные
-http://cdn-cache01.voka.tv:80/live/235-req_req_5k_v5.m3u8
+http://91.196.39.252:4000/play/a01v
 
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://epg.iptvx.one/icn/shanson-tv.png",Radio Шансон-ТВ
 #EXTGRP:🎵 Музыкальные
