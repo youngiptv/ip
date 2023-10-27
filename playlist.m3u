@@ -8,7 +8,7 @@ http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
 
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="http://epg.it999.ru/img2/984.png",Россия 1
 #EXTGRP:🇷🇺 Эфирные
-http://81.177.197.13:8000/play/a00k/index.m3u8
+http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="http://epg.it999.ru/img2/984.png",Россия 1
 #EXTGRP:🇷🇺 Эфирные
@@ -20,7 +20,7 @@ http://188.113.190.15:80/172/playlist.m3u8
 
 #EXTINF:-1 tvg-id="rossija24" tvg-logo="http://epg.it999.ru/img2/1683.png",Россия-24
 #EXTGRP:🇷🇺 Эфирные
-http://81.177.197.13:8000/play/a00l/index.m3u8
+http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
 
 #EXTINF:-1 tvg-id="rossija24" tvg-logo="http://epg.it999.ru/img2/1683.png",Россия-24
 #EXTGRP:🇷🇺 Эфирные
@@ -31,7 +31,7 @@ http://91.196.39.252:4000/play/a00s
 
 #EXTINF:-1 tvg-id="tvcentr" tvg-logo="http://epg.it999.ru/img2/649.png",ТВ Центр
 #EXTGRP:🇷🇺 Эфирные
-http://81.177.197.13:8000/play/a007/playlist.m3u8
+http://95.217.196.109:8081/russia/tvc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tvcentr" tvg-logo="http://epg.it999.ru/img2/649.png",ТВ Центр HD
 #EXTGRP:🇷🇺 Эфирные
@@ -39,7 +39,7 @@ http://188.113.190.15:80/10/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ntv" tvg-logo="http://epg.it999.ru/img2/2001.png",НТВ
 #EXTGRP:🇷🇺 Эфирные
-http://81.177.197.13:8000/play/a003/index.m3u8
+https://s18209.cdn.ngenix.net:443/hls/CH_R03_NTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ntv" tvg-logo="http://epg.it999.ru/img2/2001.png",НТВ HD
 #EXTGRP:🇷🇺 Эфирные
@@ -69,13 +69,13 @@ http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50d
 https://cdn.ntv.ru/th_style/video.m3u8?token1=96d9a62bc619079db307c8fd067a1ab9
 
 #EXTINF:-1 ,ОТР
-http://81.177.197.13:8000/play/a00m/playlist.m3u8
+https://s18209.cdn.ngenix.net:443/hls/CH_R01_OTR/playlist.m3u8
 
 #EXTINF:-1 ,САРАФАН
 http://178.124.179.122:8088/Sarafan/mono.m3u8
 
 #EXTINF:-1 tvg-id="Пятый канал" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/5-tv.svg/1200px-5-tv.svg.png",Пятый канал
-http://81.177.197.13:8000/play/a004/index.m3u8
+https://ucdn.beetv.kz:443/btv/live/hls/000003718.m3u8
 
 #EXTINF:-1 tvg-id="domashny" tvg-logo="http://epg.it999.ru/img2/304.png",Домашний
 #EXTGRP:🇷🇺 Эфирные
@@ -87,7 +87,7 @@ https://nstreamportal.ru:443/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9r
 
 #EXTINF:-1 tvg-id="rentv" tvg-logo="http://epg.it999.ru/img2/18.png",РЕН ТВ
 #EXTGRP:🇷🇺 Эфирные
-http://81.177.197.13:8000/play/a00a/index.m3u8
+http://91.197.104.34:8080/rentv/tracks-a1v1/index.m3u8
 
 #EXTINF:-1 tvg-id="mir" tvg-logo="http://epg.it999.ru/img2/726.png",Мир HD
 #EXTGRP:🇷🇺 Эфирные
