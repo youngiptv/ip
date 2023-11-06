@@ -24,7 +24,7 @@ http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
 
 #EXTINF:-1 tvg-id="rossija24" tvg-logo="http://epg.it999.ru/img2/1683.png",Россия-24
 #EXTGRP:🇷🇺 Эфирные
-http://ucdn.beetv.kz:80/btv/live/hls/000000198.m3u8
+http://178.163.65.54:4022/udp/234.0.0.207:2000
 
 #EXTINF:-1 ,РТР ПЛАНЕТА
 http://91.196.39.252:4000/play/a00s
@@ -46,11 +46,11 @@ https://s18209.cdn.ngenix.net:443/hls/CH_R03_NTV/playlist.m3u8
 https://sirius.greenhosting.ru/NtvRu/mono.m3u8
 
 #EXTINF:-1 ,НТВ-Мир
-http://ucdn.beetv.kz:80/btv/live/hls/000000079.m3u8
+https://moobl.ru:443/hls/NTV_mir.m3u8
 
 #EXTINF:0  tvg-id="ntv-serial" tvg-logo="http://epg.it999.ru/img2/1754.png",НТВ Сериал
 #EXTGRP:📽️ Фильмовые
-http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy8xODUxZmMwYi1lN2M4LTQxZGUtYWRmYy02ODI5MDZmMDhhOTMvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
+http://31.40.155.227:9595/play/ntv_serial
 
 #EXTINF:0 tvg-id="ntv-xit" tvg-logo="http://epg.it999.ru/img2/2041.png",НТВ-ХИТ
 #EXTGRP:📽️ Фильмовые
@@ -62,7 +62,7 @@ https://cdn.ntv.ru/th_hit/index.m3u8
 
 #EXTINF:0  tvg-id="ntv-pravo" tvg-logo="http://epg.it999.ru/img2/1753.png",НТВ Право
 #EXTGRP:📽️ Фильмовые
-http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy8xZmE3NzcwZS0yMGMzLTQyOTMtOTgwZS05Y2Y0ODU3NDFiNGUvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
+https://moobl.ru/hls/NTV_pravo.m3u8
 
 #EXTINF:0 tvg-id="ntv-style" tvg-logo="http://epg.it999.ru/img2/1755.png",НТВ Стиль
 #EXTGRP:🇷🇺 Эфирные
@@ -75,7 +75,7 @@ https://s18209.cdn.ngenix.net:443/hls/CH_R01_OTR/playlist.m3u8
 http://178.124.179.122:8088/Sarafan/mono.m3u8
 
 #EXTINF:-1 tvg-id="Пятый канал" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/5-tv.svg/1200px-5-tv.svg.png",Пятый канал
-https://ucdn.beetv.kz:443/btv/live/hls/000003718.m3u8
+http://188.113.190.15:80/5/mono.m3u8
 
 #EXTINF:-1 tvg-id="domashny" tvg-logo="http://epg.it999.ru/img2/304.png",Домашний
 #EXTGRP:🇷🇺 Эфирные
@@ -83,7 +83,7 @@ http://45.159.74.13/Domashniy/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="domkino" tvg-logo="http://epg.it999.ru/img2/834.png",Дом Кино
 #EXTGRP:📽️ Фильмовые
-https://nstreamportal.ru:443/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy9lNzU0ODZiYy00YmYyLTRkNDgtODhmOS1hMDk3ZWQwNzU4MDUvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
+http://45.144.31.195:8031/tracks-v1a11/index.m3u8
 
 #EXTINF:-1 tvg-id="rentv" tvg-logo="http://epg.it999.ru/img2/18.png",РЕН ТВ
 #EXTGRP:🇷🇺 Эфирные
