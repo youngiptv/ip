@@ -46,7 +46,7 @@ https://s18209.cdn.ngenix.net:443/hls/CH_R03_NTV/playlist.m3u8
 http://dmitry-tv.ddns.net/hls/T2/CH_NTVHD.m3u8
 
 #EXTINF:-1 ,НТВ-Мир
-http://176.222.191.62/btv/live/hls/000000079.m3u8
+https://streaming101.goodstream.cyou/live/213-req_offset_28000000-req_window_0-3k_v5.m3u8
 
 #EXTINF:0  tvg-id="ntv-serial" tvg-logo="http://epg.it999.ru/img2/1754.png",НТВ Сериал
 #EXTGRP:📽️ Фильмовые
@@ -98,10 +98,10 @@ https://streaming.televizor-24-tochka.ru/live/22-req_offset_28000000-req_window_
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="RU" tvg-logo="https://i.imgur.com/CrFWXTD.png" group-title="Undefined",Мир (+4)
-http://176.222.191.62:80/btv/live/hls/000002555.m3u8
+http://188.113.190.15:80/195/mono.m3u8
 
 #EXTINF:-1 ,НАШЕ НОВОЕ КИНО
-http://188.113.190.15:80/327/video.m3u8
+https://stream-msk-09.ott.tricolor.tv:443/dtv/id272_MSKSG-PVR-1--Nashe_novoe_kino/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MDAyNTUwMDc4MjQwNyIsImV4cCI6MTcwMzgzMzM3OSwiaHdpZCI6IjdlOWY2MzFlOTQwYTRmOTIzMjBhYWRmYzBkYjI3OTJhNmJjMjBmNzIxOWJmNzA2MzBlMzAyZGQxOGIwYzQ1NWQiLCJsYXN0X3JlcV9kYXRlIjoxNzAzMjI4NTc5LCJzZXNzaW9uX2lkIjoiOTViYjAzNThiZjgwZmNhYzEyMWI1YjQ2NTUwZGNmM2MiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.H-wFMmF2d_j0sSiezWT0h8zWrdNIq7LAQhPhaloXWbE
 
 #EXTINF:-1 tvg-id="TNTInternational.ru" tvg-logo="https://i.imgur.com/uvmCMCG.png" group-title="Entertainment" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,ТНТ International
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
@@ -123,7 +123,7 @@ https://vmesterf.bonus-tv.ru/cdn/vmesterf/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="zvezda" tvg-logo="http://epg.it999.ru/img2/405.png",Звезда HD
 #EXTGRP:🇷🇺 Эфирные
-https://sirius.greenhosting.ru/Zvezda/playlist.m3u8
+http://dmi3y-tv.ru/hls/T2/CH_ZVEZDAHD.m3u8
 
 #EXTINF:-1 tvg-id="Красная линия" tvg-logo="https://img-fotki.yandex.ru/get/102548/223641065.237/0_1fa2ee_864e9456_XXL.jpg",Красная линия
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
@@ -140,7 +140,7 @@ https://bl.uma.media/live/317845/HLS_R/4280320_3/2/1/tracks-a1v1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="rbk" tvg-logo="http://epg.it999.ru/img2/743.png",РБК
 #EXTGRP:🇷🇺 Эфирные
-https://ucdn.beetv.kz/btv/live/hls/000000091.m3u8
+http://dmi3y-tv.ru/hls/region/CH_RBK_UFA.m3u8
 
 #EXTINF:-1 tvg-id="shanson-tv" tvg-logo="https://epg.iptvx.one/icn/shanson-tv.png",Шансон-ТВ
 #EXTGRP:🎵 Музыкальные
