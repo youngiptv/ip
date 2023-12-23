@@ -27,7 +27,7 @@ http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
 http://188.113.190.15/7/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,РОССИЯ РТР
-http://176.222.191.62:80/btv/live/hls/000000812.m3u8
+http://persik.by/stream/223/54197/700.m3u8
 
 #EXTINF:-1 tvg-id="tvcentr" tvg-logo="http://epg.it999.ru/img2/649.png",ТВ Центр
 #EXTGRP:🇷🇺 Эфирные
@@ -43,7 +43,7 @@ https://s18209.cdn.ngenix.net:443/hls/CH_R03_NTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ntv" tvg-logo="http://epg.it999.ru/img2/2001.png",НТВ HD
 #EXTGRP:🇷🇺 Эфирные
-https://sirius.greenhosting.ru/NtvRu/mono.m3u8
+http://dmitry-tv.ddns.net/hls/T2/CH_NTVHD.m3u8
 
 #EXTINF:-1 ,НТВ-Мир
 http://176.222.191.62/btv/live/hls/000000079.m3u8
