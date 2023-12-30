@@ -43,30 +43,30 @@ https://s18209.cdn.ngenix.net:443/hls/CH_R03_NTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ntv" tvg-logo="http://epg.it999.ru/img2/2001.png",НТВ HD
 #EXTGRP:🇷🇺 Эфирные
-http://dmitry-tv.ddns.net/hls/T2/CH_NTVHD.m3u8
+https://vgtrk-live-megafon2.mediavitrina.ru:443/hls-livec2/streams/vitrina-hls/ntv0h/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 ,НТВ-Мир
-https://streaming101.goodstream.cyou/live/213-req_offset_28000000-req_window_0-3k_v5.m3u8
+http://195.245.99.251:8030
 
 #EXTINF:0  tvg-id="ntv-serial" tvg-logo="http://epg.it999.ru/img2/1754.png",НТВ Сериал
 #EXTGRP:📽️ Фильмовые
-https://cdn.ntv.ru:443/th_serial/playlist.m3u8
+http://185.26.157.3:8080/live/ntv_serial/mono.m3u8
 
 #EXTINF:0 tvg-id="ntv-xit" tvg-logo="http://epg.it999.ru/img2/2041.png",НТВ-ХИТ
 #EXTGRP:📽️ Фильмовые
-https://cdn.ntv.ru:443/th_hit/playlist.m3u8
+http://194.58.170.37:81/udp/239.195.0.145:1234
 
 #EXTINF:0 tvg-id="ntv-xit" tvg-logo="http://epg.it999.ru/img2/2041.png",НТВ-ХИТ
 #EXTGRP:📽️ Фильмовые
-https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
+http://86.57.211.182:32200/NTVHit/index.m3u8?auth=token:test
 
 #EXTINF:0  tvg-id="ntv-pravo" tvg-logo="http://epg.it999.ru/img2/1753.png",НТВ Право
 #EXTGRP:📽️ Фильмовые
-https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
+http://185.26.157.3:8080/live/ntv_pravo/mono.m3u8
 
 #EXTINF:0 tvg-id="ntv-style" tvg-logo="http://epg.it999.ru/img2/1755.png",НТВ Стиль
 #EXTGRP:🇷🇺 Эфирные
-http://dmi3y-tv.ru/hls/CH_NTVSTIL.m3u8
+http://194.58.170.37:81/udp/239.0.1.78:1234
 
 #EXTINF:-1 ,ОТР
 https://s18209.cdn.ngenix.net:443/hls/CH_R01_OTR/playlist.m3u8
@@ -101,7 +101,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8?checked
 http://188.113.190.15:80/195/mono.m3u8
 
 #EXTINF:-1 ,НАШЕ НОВОЕ КИНО
-https://stream-msk-09.ott.tricolor.tv:443/dtv/id272_MSKSG-PVR-1--Nashe_novoe_kino/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MDAyNTUwMDc4MjQwNyIsImV4cCI6MTcwMzgzMzM3OSwiaHdpZCI6IjdlOWY2MzFlOTQwYTRmOTIzMjBhYWRmYzBkYjI3OTJhNmJjMjBmNzIxOWJmNzA2MzBlMzAyZGQxOGIwYzQ1NWQiLCJsYXN0X3JlcV9kYXRlIjoxNzAzMjI4NTc5LCJzZXNzaW9uX2lkIjoiOTViYjAzNThiZjgwZmNhYzEyMWI1YjQ2NTUwZGNmM2MiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.H-wFMmF2d_j0sSiezWT0h8zWrdNIq7LAQhPhaloXWbE
+http://185.26.157.3:8080/live/nashenovoekino/mono.m3u8
 
 #EXTINF:-1 tvg-id="TNTInternational.ru" tvg-logo="https://i.imgur.com/uvmCMCG.png" group-title="Entertainment" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,ТНТ International
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
