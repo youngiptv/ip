@@ -54,15 +54,15 @@ http://91.205.199.3:80/ntvserial/index.m3u8
 
 #EXTINF:0 tvg-id="ntv-xit" tvg-logo="http://epg.it999.ru/img2/2041.png",НТВ-ХИТ
 #EXTGRP:📽️ Фильмовые
-http://89.104.114.32:8080/ntv_hit/mono.m3u8?token=OLa8659SiL
+http://195.191.208.225/hlsjwt/ce14067cf166e943549ec8335f64ab1301593c51-3781-0-24h6601185-5-1542349559-1705584042--k6P8gdowzampn5SRZC8zkdgMDU3dL-M1T6vM76PLBAE/index.m3u8
 
-#EXTINF:0 tvg-id="ntv-xit" tvg-logo="http://epg.it999.ru/img2/2041.png",НТВ-ХИТ
+#EXTINF:0 tvg-id="ntv-xit" tvg-logo="http://epg.it999.ru/img2/2041.png",НТВ-ХИТ HD
 #EXTGRP:📽️ Фильмовые
-http://86.57.211.182:32200/NTVHit/index.m3u8?auth=token:test
+https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 
 #EXTINF:0  tvg-id="ntv-pravo" tvg-logo="http://epg.it999.ru/img2/1753.png",НТВ Право
 #EXTGRP:📽️ Фильмовые
-http://195.191.208.225/hlsjwt/5a9e021d71a5e22c4b5a00e1b30b31fc1f46460b-785-0-24h6601185-5-1542349559-1705083625--lGdb0hvZFhQJf2MHzuO8CNNsqsgrwPpeS_is0SbVKH0/index.m3u8
+http://195.191.208.225/hlsjwt/ce14067cf166e943549ec8335f64ab1301593c51-785-0-24h6601185-5-1542349559-1705584152--KZla3da4Ih4UR_FFAOvPxs-sZGNiXJeIWIn4W3jPpRY/index.m3u8
 
 #EXTINF:0 tvg-id="ntv-style" tvg-logo="http://epg.it999.ru/img2/1755.png",НТВ Стиль
 #EXTGRP:🇷🇺 Эфирные
@@ -119,7 +119,7 @@ https://bl.uma.media/live/317843/HLS/1_3/2/1/tracks-v2a1/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Вместе РФ" tvg-logo="https://vmeste-rf.tv/upload/medialibrary/259/25959c39fd8e5df98eb72dd82c906550.jpg",Вместе РФ
-https://vmesterf.bonus-tv.ru/cdn/vmesterf/tracks-v1a1/mono.m3u8
+http://91.205.165.11:22888/play/84/index.m3u8
 
 #EXTINF:-1 tvg-id="zvezda" tvg-logo="http://epg.it999.ru/img2/405.png",Звезда HD
 #EXTGRP:🇷🇺 Эфирные
