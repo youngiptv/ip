@@ -26,12 +26,12 @@ http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
 #EXTGRP:🇷🇺 Эфирные
 http://188.113.190.15/7/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 ,РОССИЯ РТР
-https://b1.pokaz.me/Kx3-Shs32JxPNrmsStaX5A/580/1706125971/index.m3u8
+#EXTINF:-1 ,РТР Планета
+http://185.32.44.154/rtrplaneta/index.m3u8
 
 #EXTINF:-1 tvg-id="tvcentr" tvg-logo="http://epg.it999.ru/img2/649.png",ТВ Центр
 #EXTGRP:🇷🇺 Эфирные
-http://vgtrk-live-megafon2.mediavitrina.ru:80/hls-livec2/streams/vitrina-hls/tvc/playlist.m3u8
+http://195.191.208.36/hlsjwt/613cc18bfb984eab643bf38a2eb237832892d742-3-0-24h6601185-5-1542349559-1706632969--RjXvuC9-B8Y8HUkfb3Popg0F61K25xq_vcR8EwYrHVc/index.m3u8
 
 #EXTINF:-1 tvg-id="tvcentr" tvg-logo="http://epg.it999.ru/img2/649.png",ТВ Центр HD
 #EXTGRP:🇷🇺 Эфирные
@@ -43,7 +43,7 @@ https://s18209.cdn.ngenix.net:443/hls/CH_R03_NTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ntv" tvg-logo="http://epg.it999.ru/img2/2001.png",НТВ HD
 #EXTGRP:🇷🇺 Эфирные
-https://vgtrk-live-megafon2.mediavitrina.ru:443/hls-livec2/streams/vitrina-hls/ntv0h/tracks-v5a1/mono.m3u8
+http://195.191.208.206/hlsjwt/613cc18bfb984eab643bf38a2eb237832892d742-220-0-24h6601185-5-1542349559-1706633049--XNJav7FeucVRnxVFsqmdUPgY3Fv5N0soZrTmjU3nN3Q/index.m3u8
 
 #EXTINF:-1 ,НТВ-Мир
 http://dmi3y-tv.ru/hls/T2/CH_NTV_MIR.m3u8
@@ -54,15 +54,15 @@ http://91.205.199.3:80/ntvserial/index.m3u8
 
 #EXTINF:0 tvg-id="ntv-xit" tvg-logo="http://epg.it999.ru/img2/2041.png",НТВ-ХИТ
 #EXTGRP:📽️ Фильмовые
-http://195.191.208.19/hlsjwt/613cc18bfb984eab643bf38a2eb237832892d742-3781-0-24h6601185-5-1542349559-1706115879--7V3nSZdjOLCXRKavRgPj3iothhIwVQgMiFW8DTt9YaM/index.m3u8
+http://195.191.208.206/hlsjwt/613cc18bfb984eab643bf38a2eb237832892d742-3781-0-24h6601185-5-1542349559-1706633188--4fu_Ts4KgIgzAK2m8LMBose10ZVOdZBuh5xjtWnywSI/index.m3u8
 
 #EXTINF:0 tvg-id="ntv-xit" tvg-logo="http://epg.it999.ru/img2/2041.png",НТВ-ХИТ HD
 #EXTGRP:📽️ Фильмовые
-https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
+http://212.22.76.51:83/NTVHit/tracks-v1a1/mono.m3u8
 
 #EXTINF:0  tvg-id="ntv-pravo" tvg-logo="http://epg.it999.ru/img2/1753.png",НТВ Право
 #EXTGRP:📽️ Фильмовые
-http://195.191.208.15/hlsjwt/613cc18bfb984eab643bf38a2eb237832892d742-785-0-24h6601185-5-1542349559-1706115924--YpMIgoAFYZpJuKvu4mtvMUDJt4giijQ1-gnV8qfntTY/index.m3u8
+http://195.191.208.15/hlsjwt/613cc18bfb984eab643bf38a2eb237832892d742-785-0-24h6601185-5-1542349559-1706633323--O7knM9TrNznmxwsJGMuJ3w_WxdTYdsBm82E702_HCE4/index.m3u8
 
 #EXTINF:0 tvg-id="ntv-style" tvg-logo="http://epg.it999.ru/img2/1755.png",НТВ Стиль
 #EXTGRP:🇷🇺 Эфирные
@@ -103,23 +103,15 @@ http://188.113.190.15:80/195/mono.m3u8
 #EXTINF:-1 ,НАШЕ НОВОЕ КИНО
 http://188.113.190.15:80/327/mono.m3u8
 
-#EXTINF:-1 tvg-id="TNTInternational.ru" tvg-logo="https://i.imgur.com/uvmCMCG.png" group-title="Entertainment" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,ТНТ International
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://dmi3y-tv.ru/hls/vitrina/CH_TNTHD.m3u8
+#EXTINF:-1 ,ТНТ HD
+http://92.53.64.197:5050/TNT_HD/video.m3u8?token=A9JzEETTau0Ee3
 
 #EXTINF:-1 tvg-id="piatnica" tvg-logo="http://epg.it999.ru/img2/1003.png",Пятница! HD
 #EXTGRP:🇷🇺 Эфирные
 https://bl.uma.media/live/317843/HLS/1_3/2/1/tracks-v2a1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="krasnodar" tvg-logo"https://cdn-st4.rtr-vesti.ru/vh/pictures/hd/335/818/3.png",Краснодар HD
-#EXTVLCOPT:http-user-agent=Mozilla 5.0
-
-
-#EXTINF:-1 tvg-id="Pod Moscoviye" tvg-logo="https://photos.live-tv-channels.org/tv-logo/360-podmoskovye-9619.jpg",Pod Moscoviye
-
-
 #EXTINF:-1 tvg-id="Вместе РФ" tvg-logo="https://vmeste-rf.tv/upload/medialibrary/259/25959c39fd8e5df98eb72dd82c906550.jpg",Вместе РФ
-http://91.205.165.11:22888/play/84/index.m3u8
+http://212.22.76.51:83/vmesterf/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="zvezda" tvg-logo="http://epg.it999.ru/img2/405.png",Звезда HD
 #EXTGRP:🇷🇺 Эфирные
@@ -129,7 +121,7 @@ http://dmi3y-tv.ru/hls/T2/CH_ZVEZDAHD.m3u8
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ТНВ-Планета" tvg-logo="https://s.tnv.ru/landing/983/TNV.jpg",ТНВ-Планета
-
+http://195.191.208.225/hlsjwt/613cc18bfb984eab643bf38a2eb237832892d742-316-0-24h6601185-5-1542349559-1706633619--Y7OK5rturEYICUHw0nF2LwVkVp1MLQiRzM_F-HgRKyw/index.m3u8
 
 #EXTINF:-1 tvg-id="ТРО Союза" tvg-logo="https://tvnews.by/uploads/posts/2017-09/1506265457_belros_logo_rus.jpg",ТРО Союза
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
