@@ -31,7 +31,7 @@ http://185.32.44.154/rtrplaneta/index.m3u8
 
 #EXTINF:-1 tvg-id="tvcentr" tvg-logo="http://epg.it999.ru/img2/649.png",ТВ Центр
 #EXTGRP:🇷🇺 Эфирные
-http://195.191.208.36/hlsjwt/613cc18bfb984eab643bf38a2eb237832892d742-3-0-24h6601185-5-1542349559-1706632969--RjXvuC9-B8Y8HUkfb3Popg0F61K25xq_vcR8EwYrHVc/index.m3u8
+http://185.37.150.40:8092/TVC/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tvcentr" tvg-logo="http://epg.it999.ru/img2/649.png",ТВ Центр HD
 #EXTGRP:🇷🇺 Эфирные
@@ -43,7 +43,7 @@ https://s18209.cdn.ngenix.net:443/hls/CH_R03_NTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ntv" tvg-logo="http://epg.it999.ru/img2/2001.png",НТВ HD
 #EXTGRP:🇷🇺 Эфирные
-http://195.191.208.206/hlsjwt/613cc18bfb984eab643bf38a2eb237832892d742-220-0-24h6601185-5-1542349559-1706633049--XNJav7FeucVRnxVFsqmdUPgY3Fv5N0soZrTmjU3nN3Q/index.m3u8
+https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 ,НТВ-Мир
 http://dmi3y-tv.ru/hls/T2/CH_NTV_MIR.m3u8
@@ -54,7 +54,7 @@ http://91.205.199.3:80/ntvserial/index.m3u8
 
 #EXTINF:0 tvg-id="ntv-xit" tvg-logo="http://epg.it999.ru/img2/2041.png",НТВ-ХИТ
 #EXTGRP:📽️ Фильмовые
-http://195.191.208.206/hlsjwt/613cc18bfb984eab643bf38a2eb237832892d742-3781-0-24h6601185-5-1542349559-1706633188--4fu_Ts4KgIgzAK2m8LMBose10ZVOdZBuh5xjtWnywSI/index.m3u8
+https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 
 #EXTINF:0 tvg-id="ntv-xit" tvg-logo="http://epg.it999.ru/img2/2041.png",НТВ-ХИТ HD
 #EXTGRP:📽️ Фильмовые
@@ -62,7 +62,7 @@ http://212.22.76.51:83/NTVHit/tracks-v1a1/mono.m3u8
 
 #EXTINF:0  tvg-id="ntv-pravo" tvg-logo="http://epg.it999.ru/img2/1753.png",НТВ Право
 #EXTGRP:📽️ Фильмовые
-http://195.191.208.15/hlsjwt/613cc18bfb984eab643bf38a2eb237832892d742-785-0-24h6601185-5-1542349559-1706633323--O7knM9TrNznmxwsJGMuJ3w_WxdTYdsBm82E702_HCE4/index.m3u8
+http://212.22.76.51:83/NTV_Pravo/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="ntv-style" tvg-logo="http://epg.it999.ru/img2/1755.png",НТВ Стиль
 #EXTGRP:🇷🇺 Эфирные
@@ -97,7 +97,7 @@ https://streaming.televizor-24-tochka.ru/live/22-req_offset_28000000-req_window_
 #EXTGRP:🇷🇺 Эфирные
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="RU" tvg-logo="https://i.imgur.com/CrFWXTD.png" group-title="Undefined",Мир (+4)
+#EXTINF:0 tvg-country="RU" tvg-logo="https://i.imgur.com/CrFWXTD.png" group-title="Undefined",Мир
 http://188.113.190.15:80/195/mono.m3u8
 
 #EXTINF:-1 ,НАШЕ НОВОЕ КИНО
@@ -121,7 +121,7 @@ http://dmi3y-tv.ru/hls/T2/CH_ZVEZDAHD.m3u8
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ТНВ-Планета" tvg-logo="https://s.tnv.ru/landing/983/TNV.jpg",ТНВ-Планета
-http://195.191.208.225/hlsjwt/613cc18bfb984eab643bf38a2eb237832892d742-316-0-24h6601185-5-1542349559-1706633619--Y7OK5rturEYICUHw0nF2LwVkVp1MLQiRzM_F-HgRKyw/index.m3u8
+https://mhd116.iptv2022.com/p/YrZUEBX6BotU0_KxWIXDIQ,1707339617/streaming/tnv-planet/324/1/index.m3u8
 
 #EXTINF:-1 tvg-id="ТРО Союза" tvg-logo="https://tvnews.by/uploads/posts/2017-09/1506265457_belros_logo_rus.jpg",ТРО Союза
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
