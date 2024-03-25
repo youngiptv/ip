@@ -31,7 +31,7 @@ https://bkm.beetv.kz/btv/live/hls/000000812.m3u8
 
 #EXTINF:-1 tvg-id="tvcentr" tvg-logo="http://epg.it999.ru/img2/649.png",ТВ Центр
 #EXTGRP:🇷🇺 Эфирные
-http://dmitry-tv.ddns.net/hls/T2/CH_TVC.m3u8
+https://livetv.mylifeisgood.net.ru/channels/tvc24.m3u8
 
 #EXTINF:-1 tvg-id="tvcentr" tvg-logo="http://epg.it999.ru/img2/649.png",ТВ Центр HD
 #EXTGRP:🇷🇺 Эфирные
@@ -43,7 +43,7 @@ https://s18209.cdn.ngenix.net:443/hls/CH_R03_NTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ntv" tvg-logo="http://epg.it999.ru/img2/2001.png",НТВ HD
 #EXTGRP:🇷🇺 Эфирные
-https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
+https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
 
 #EXTINF:-1 ,НТВ-Мир
 http://dmi3y-tv.ru/hls/T2/CH_NTV_MIR.m3u8
@@ -58,7 +58,7 @@ https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 
 #EXTINF:0 tvg-id="ntv-xit" tvg-logo="http://epg.it999.ru/img2/2041.png",НТВ-ХИТ HD
 #EXTGRP:📽️ Фильмовые
-http://86.57.211.182:32200/NTVHit/index.m3u8?auth=token:test
+http://83.234.207.29:8009/play/a01v/index.m3u8
 
 #EXTINF:0  tvg-id="ntv-pravo" tvg-logo="http://epg.it999.ru/img2/1753.png",НТВ Право
 #EXTGRP:📽️ Фильмовые
@@ -66,7 +66,7 @@ https://bkm.beetv.kz/btv/live/hls/000002759.m3u8
 
 #EXTINF:0 tvg-id="ntv-style" tvg-logo="http://epg.it999.ru/img2/1755.png",НТВ Стиль
 #EXTGRP:🇷🇺 Эфирные
-http://86.57.211.182:32200/NTVStil/index.m3u8?auth=token:test
+https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
 
 #EXTINF:-1 ,ОТР
 https://s18209.cdn.ngenix.net:443/hls/CH_R01_OTR/playlist.m3u8
@@ -104,7 +104,7 @@ http://188.113.190.15:80/195/mono.m3u8
 http://188.113.190.15:80/327/mono.m3u8
 
 #EXTINF:-1 ,ТНТ HD
-http://178.212.236.3:8802/play/m1_33
+https://strm.yandex.ru/kal/tnt_interneshnl_belarus/tnt_interneshnl_belarus0.m3u8
 
 #EXTINF:-1 tvg-id="piatnica" tvg-logo="http://epg.it999.ru/img2/1003.png",Пятница! HD
 #EXTGRP:🇷🇺 Эфирные
@@ -121,7 +121,7 @@ http://dmi3y-tv.ru/hls/T2/CH_ZVEZDAHD.m3u8
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ТНВ-Планета" tvg-logo="https://s.tnv.ru/landing/983/TNV.jpg",ТНВ-Планета
-http://arbiter.bolshoe.tv/?path=streaming/tnvpl/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDI0IDg6MDI6MzUgUE0maGFzaF92YWx1ZT1NQ0N2QjBWN05Eazk5Z2JFTDBsMGpBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+https://bkm.beetv.kz/btv/live/hls/000000418.m3u8
 
 #EXTINF:-1 tvg-id="ТРО Союза" tvg-logo="https://tvnews.by/uploads/posts/2017-09/1506265457_belros_logo_rus.jpg",ТРО Союза
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
@@ -144,7 +144,7 @@ http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
 
 #EXTINF:-1 tvg-id="match-priemer" tvg-logo="http://epg.it999.ru/img2/2736.png",Матч Премьер HD
 #EXTGRP:⛹🏿‍ Спортивные
-http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDI0IDg6MDI6MzUgUE0maGFzaF92YWx1ZT1NQ0N2QjBWN05Eazk5Z2JFTDBsMGpBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+http://83.234.207.29:8004/play/a014/index.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Cy3fsuLzaorl2j4CbpaREwtomc_sd6DlMg&usqp=CAU",Первый Музыкальный RU HD
 #EXTGRP:🎵 Музыкальные
