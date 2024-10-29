@@ -4,15 +4,15 @@ https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 
 #EXTINF:-1 tvg-id="pervy" tvg-logo="http://epg.it999.ru/img2/983.png",Первый HD
 #EXTGRP:🇷🇺 Эфирные
-http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="http://epg.it999.ru/img2/984.png",Россия 1
 #EXTGRP:🇷🇺 Эфирные
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="rossia1" tvg-logo="http://epg.it999.ru/img2/984.png",Россия 1
+#EXTINF:-1 tvg-id="rossia1" tvg-logo="http://epg.it999.ru/img2/984.png",Россия 1 HD
 #EXTGRP:🇷🇺 Эфирные
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/kostroma/russia1-sd/index.m3u8
+https://vgtrksmotrim.cdnvideo.ru/hls2/russia_hd/playlist_6.m3u8?md5=D3WtBGBcCPkK8DibOkI3Kw&e=1730225841&hls_proxy_host=70b013ca21e8364cd537747cf862272b
 
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="http://epg.it999.ru/img2/984.png",Россия 1 HD
 #EXTGRP:🇷🇺 Эфирные
@@ -20,26 +20,26 @@ https://player.smotrim.ru/iframe/stream/live_id/2961
 
 #EXTINF:-1 tvg-id="rossija24" tvg-logo="http://epg.it999.ru/img2/1683.png",Россия-24
 #EXTGRP:🇷🇺 Эфирные
-http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
+https://vgtrksmotrim.cdnvideo.ru/hls/russia_24/playlist_3.m3u8?md5=gXMiiL-qr71Qi5yOuUw5-Q&e=1730225774&hls_proxy_host=70b013ca21e8364cd537747cf862272b
 
 #EXTINF:-1 tvg-id="rossija24" tvg-logo="http://epg.it999.ru/img2/1683.png",Россия-24
 #EXTGRP:🇷🇺 Эфирные
 https://player.smotrim.ru/iframe/stream/live_id/21
 
 #EXTINF:-1 ,РТР Планета
-https://bkm.beetv.kz/btv/live/hls/000000812.m3u8
+https://livehlsvgtrk2.cdnvideo.ru/hls/planeta_rtr_euro/playlist.m3u8?md5=w6EZ_0L3RcAqsaiMT1v6CA&e=1730225772
 
 #EXTINF:-1 tvg-id="tvcentr" tvg-logo="http://epg.it999.ru/img2/649.png",ТВ Центр
 #EXTGRP:🇷🇺 Эфирные
-https://livetv.mylifeisgood.net.ru/channels/tvc24.m3u8
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyNCA1OjIxOjAyIFBNJmhhc2hfdmFsdWU9aFA0ekRWNGZRa2xWWC9MQUpncEl0UT09JnZhbGlkbWludXRlcz0xNDQw
 
 #EXTINF:-1 tvg-id="tvcentr" tvg-logo="http://epg.it999.ru/img2/649.png",ТВ Центр HD
 #EXTGRP:🇷🇺 Эфирные
-https://s2.viks.tv/xVVsxfwEOOYN_qupirv8qQ/548/1723757164/index.m3u8
+https://s87.glaz.tv:8082/liveg/tvc.stream/chunks.m3u8?nimblesessionid=5780275&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyNCA1OjI3OjExIFBNJmhhc2hfdmFsdWU9Wk9sV2VQQm5KRmtCdk9wZmxJcDZTZz09JnZhbGlkbWludXRlcz0yMDA=
 
 #EXTINF:-1 tvg-id="ntv" tvg-logo="http://epg.it999.ru/img2/2001.png",НТВ
 #EXTGRP:🇷🇺 Эфирные
-https://s18209.cdn.ngenix.net:443/hls/CH_R03_NTV/playlist.m3u8
+https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=8B7NvdAAwU8ltXyXc-lYZA&e=1730308924&scheme=https
 
 #EXTINF:-1 tvg-id="ntv" tvg-logo="http://epg.it999.ru/img2/2001.png",НТВ HD
 #EXTGRP:🇷🇺 Эфирные
@@ -62,20 +62,20 @@ http://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 
 #EXTINF:0  tvg-id="ntv-pravo" tvg-logo="http://epg.it999.ru/img2/1753.png",НТВ Право
 #EXTGRP:📽️ Фильмовые
-https://bkm.beetv.kz/btv/live/hls/000002759.m3u8
+http://dmitry-tv.ddns.net/hls/CH_NTVPRAVO.m3u8
 
 #EXTINF:0 tvg-id="ntv-style" tvg-logo="http://epg.it999.ru/img2/1755.png",НТВ Стиль
 #EXTGRP:🇷🇺 Эфирные
-https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
+http://dmitry-tv.ddns.net/hls/CH_NTVSTIL.m3u8
 
 #EXTINF:-1 ,ОТР
-https://s18209.cdn.ngenix.net:443/hls/CH_R01_OTR/playlist.m3u8
+https://salam-mskm9-2.rutube.ru/dive/river-5-515.rutube.ru/fuett0Er3buwtGJwLyTciw/stream/genetta-332.m9.rutube.ru/chNeSVuT-JdCj7U6jsLkkQ/1730827527/faa934385b83f9e8a92f5484defae5fa/360p_stream.m3u8
 
 #EXTINF:-1 ,САРАФАН
-http://178.124.179.122:8088/Sarafan/index.m3u8
+https://a5.pokaz.me/xm_sG_hPBVhCye0RZhLdaw/209/1730240977/index.m3u8
 
 #EXTINF:-1 tvg-id="Пятый канал" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/5-tv.svg/1200px-5-tv.svg.png",Пятый канал
-http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
+https://s87.glaz.tv:8082/liveg/pyatyi.stream/chunks.m3u8?nimblesessionid=5782145&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyNCA1OjMyOjM5IFBNJmhhc2hfdmFsdWU9dm5wRGorYlhsZWpLdDdCS0dnMDNzUT09JnZhbGlkbWludXRlcz0yMDA=
 
 #EXTINF:-1 tvg-id="domashny" tvg-logo="http://epg.it999.ru/img2/304.png",Домашний
 #EXTGRP:🇷🇺 Эфирные
@@ -87,7 +87,7 @@ https://stream01.vnet.am/DomKino/mono.m3u8
 
 #EXTINF:-1 tvg-id="rentv" tvg-logo="http://epg.it999.ru/img2/18.png",РЕН ТВ
 #EXTGRP:🇷🇺 Эфирные
-https://bkm.beetv.kz/btv/live/hls/000002472.m3u8
+https://a5.pokaz.me/k04wR_iFc4FFRs3tnX6hfA/543/1730241323/index.m3u8
 
 #EXTINF:-1 tvg-id="mir" tvg-logo="http://epg.it999.ru/img2/726.png",Мир HD
 #EXTGRP:🇷🇺 Эфирные
@@ -101,10 +101,10 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8?checked
 
 
 #EXTINF:-1 ,НАШЕ НОВОЕ КИНО
-https://a5.pokaz.me/TI8ENqXgz00FxvRsapH8xA/197/1723757665/index.m3u8
+
 
 #EXTINF:-1 ,ТНТ HD
-https://s2.viks.tv/91eZQfnq-GwzxBQ_42rp7w/547/1723757705/index.m3u8
+https://s2.tivix.co/QElYh4mZXSsfeh6DKULNsg/547/1730241675/index.m3u8
 
 #EXTINF:-1 tvg-id="piatnica" tvg-logo="http://epg.it999.ru/img2/1003.png",Пятница! HD
 #EXTGRP:🇷🇺 Эфирные
@@ -121,7 +121,7 @@ http://dmi3y-tv.ru/hls/T2/CH_ZVEZDAHD.m3u8
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ТНВ-Планета" tvg-logo="https://s.tnv.ru/landing/983/TNV.jpg",ТНВ-Планета
-https://bkm.beetv.kz/btv/live/hls/000000418.m3u8
+http://dmitry-tv.ddns.net/hls/region/CH_TNVPLANETA_KZN.m3u8
 
 #EXTINF:-1 tvg-id="ТРО Союза" tvg-logo="https://tvnews.by/uploads/posts/2017-09/1506265457_belros_logo_rus.jpg",ТРО Союза
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
