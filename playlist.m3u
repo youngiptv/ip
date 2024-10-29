@@ -8,11 +8,11 @@ https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="http://epg.it999.ru/img2/984.png",Россия 1
 #EXTGRP:🇷🇺 Эфирные
-http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
+https://a5.pokaz.me/s-eCZraqkMd5FnZhQ78V4g/544/1730244994/index.m3u8
 
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="http://epg.it999.ru/img2/984.png",Россия 1 HD
 #EXTGRP:🇷🇺 Эфирные
-https://vgtrksmotrim.cdnvideo.ru/hls2/russia_hd/playlist_6.m3u8?md5=D3WtBGBcCPkK8DibOkI3Kw&e=1730225841&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+
 
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="http://epg.it999.ru/img2/984.png",Россия 1 HD
 #EXTGRP:🇷🇺 Эфирные
@@ -20,14 +20,14 @@ https://player.smotrim.ru/iframe/stream/live_id/2961
 
 #EXTINF:-1 tvg-id="rossija24" tvg-logo="http://epg.it999.ru/img2/1683.png",Россия-24
 #EXTGRP:🇷🇺 Эфирные
-https://vgtrksmotrim.cdnvideo.ru/hls/russia_24/playlist_3.m3u8?md5=gXMiiL-qr71Qi5yOuUw5-Q&e=1730225774&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+https://a5.pokaz.me/7cNirynhd6npdwADA-vZOQ/563/1730245089/index.m3u8
 
 #EXTINF:-1 tvg-id="rossija24" tvg-logo="http://epg.it999.ru/img2/1683.png",Россия-24
 #EXTGRP:🇷🇺 Эфирные
 https://player.smotrim.ru/iframe/stream/live_id/21
 
 #EXTINF:-1 ,РТР Планета
-https://livehlsvgtrk2.cdnvideo.ru/hls/planeta_rtr_euro/playlist.m3u8?md5=w6EZ_0L3RcAqsaiMT1v6CA&e=1730225772
+https://streaming.goodstream.cyou/live/211-req_offset_28000000-req_window_0-1k_v5.m3u8
 
 #EXTINF:-1 tvg-id="tvcentr" tvg-logo="http://epg.it999.ru/img2/649.png",ТВ Центр
 #EXTGRP:🇷🇺 Эфирные
@@ -75,7 +75,7 @@ https://salam-mskm9-2.rutube.ru/dive/river-5-515.rutube.ru/fuett0Er3buwtGJwLyTci
 https://a5.pokaz.me/xm_sG_hPBVhCye0RZhLdaw/209/1730240977/index.m3u8
 
 #EXTINF:-1 tvg-id="Пятый канал" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/5-tv.svg/1200px-5-tv.svg.png",Пятый канал
-https://s87.glaz.tv:8082/liveg/pyatyi.stream/chunks.m3u8?nimblesessionid=5782145&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyNCA1OjMyOjM5IFBNJmhhc2hfdmFsdWU9dm5wRGorYlhsZWpLdDdCS0dnMDNzUT09JnZhbGlkbWludXRlcz0yMDA=
+https://a5.pokaz.me/GDHwPl0U7eSU6rZlJCot3Q/524/1730245226/index.m3u8
 
 #EXTINF:-1 tvg-id="domashny" tvg-logo="http://epg.it999.ru/img2/304.png",Домашний
 #EXTGRP:🇷🇺 Эфирные
