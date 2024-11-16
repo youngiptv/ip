@@ -8,7 +8,7 @@ https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="http://epg.it999.ru/img2/984.png",Россия 1
 #EXTGRP:🇷🇺 Эфирные
-https://a5.pokaz.me/E8SCJWe6e-_nojmIltVadQ/544/1730416275/index.m3u8
+https://a5.pokaz.me/Vc8XAla3J-MIlLzA4nHrzw/544/1731783211/index.m3u8
 
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="http://epg.it999.ru/img2/984.png",Россия 1 HD
 #EXTGRP:🇷🇺 Эфирные
@@ -16,26 +16,26 @@ https://player.smotrim.ru/iframe/stream/live_id/2961
 
 #EXTINF:-1 tvg-id="rossija24" tvg-logo="http://epg.it999.ru/img2/1683.png",Россия-24
 #EXTGRP:🇷🇺 Эфирные
-https://a5.pokaz.me/7cNirynhd6npdwADA-vZOQ/563/1730245089/index.m3u8
+https://a5.pokaz.me/BYqUr1WouCyIH7lRTF5PQA/563/1731783293/index.m3u8
 
 #EXTINF:-1 tvg-id="rossija24" tvg-logo="http://epg.it999.ru/img2/1683.png",Россия-24
 #EXTGRP:🇷🇺 Эфирные
 https://player.smotrim.ru/iframe/stream/live_id/21
 
 #EXTINF:-1 ,РТР Планета
-https://streaming.goodstream.cyou/live/211-req_offset_28000000-req_window_0-1k_v5.m3u8
+https://player.smotrim.ru/iframe/stream/live_id/4941
 
 #EXTINF:-1 tvg-id="tvcentr" tvg-logo="http://epg.it999.ru/img2/649.png",ТВ Центр
 #EXTGRP:🇷🇺 Эфирные
-https://s2.viks.tv/Nq31vA9WlqSc9GxbzZblKA/548/1730416562/index.m3u8
+https://s2.viks.tv/JtgzG9WcSLiB_R3NktSvgA/548/1731783678/index.m3u8
 
 #EXTINF:-1 tvg-id="tvcentr" tvg-logo="http://epg.it999.ru/img2/649.png",ТВ Центр HD
 #EXTGRP:🇷🇺 Эфирные
-https://s87.glaz.tv:8082/liveg/tvc.stream/chunks.m3u8?nimblesessionid=5780275&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyNCA1OjI3OjExIFBNJmhhc2hfdmFsdWU9Wk9sV2VQQm5KRmtCdk9wZmxJcDZTZz09JnZhbGlkbWludXRlcz0yMDA=
+
 
 #EXTINF:-1 tvg-id="ntv" tvg-logo="http://epg.it999.ru/img2/2001.png",НТВ
 #EXTGRP:🇷🇺 Эфирные
-https://s2.viks.tv/r2W0_m1lECFGmdTivtegEw/537/1730416609/index.m3u8
+http://91.224.169.250:5000/c70
 
 #EXTINF:-1 tvg-id="ntv" tvg-logo="http://epg.it999.ru/img2/2001.png",НТВ HD
 #EXTGRP:🇷🇺 Эфирные
@@ -46,7 +46,7 @@ http://dmi3y-tv.ru/hls/T2/CH_NTV_MIR.m3u8
 
 #EXTINF:0  tvg-id="ntv-serial" tvg-logo="http://epg.it999.ru/img2/1754.png",НТВ Сериал
 #EXTGRP:📽️ Фильмовые
-http://91.205.199.3:80/ntvserial/index.m3u8
+http://77.235.1.17/ntv_serial/index.m3u8
 
 #EXTINF:0 tvg-id="ntv-xit" tvg-logo="http://epg.it999.ru/img2/2041.png",НТВ-ХИТ
 #EXTGRP:📽️ Фильмовые
@@ -65,13 +65,13 @@ http://dmitry-tv.ddns.net/hls/CH_NTVPRAVO.m3u8
 http://dmitry-tv.ddns.net/hls/CH_NTVSTIL.m3u8
 
 #EXTINF:-1 ,ОТР
-https://salam-mskm9-2.rutube.ru/dive/river-5-515.rutube.ru/fuett0Er3buwtGJwLyTciw/stream/genetta-332.m9.rutube.ru/chNeSVuT-JdCj7U6jsLkkQ/1730827527/faa934385b83f9e8a92f5484defae5fa/360p_stream.m3u8
+
 
 #EXTINF:-1 ,САРАФАН
-https://a5.pokaz.me/qKqqAXgvF7X-BRylsXZN7w/209/1730416693/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Пятый канал" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/5-tv.svg/1200px-5-tv.svg.png",Пятый канал
-https://a5.pokaz.me/eP70F5mk3oXf7uwWbHWIjA/524/1730416652/index.m3u8
+
 
 #EXTINF:-1 tvg-id="domashny" tvg-logo="http://epg.it999.ru/img2/304.png",Домашний
 #EXTGRP:🇷🇺 Эфирные
@@ -83,7 +83,7 @@ https://stream01.vnet.am/DomKino/mono.m3u8
 
 #EXTINF:-1 tvg-id="rentv" tvg-logo="http://epg.it999.ru/img2/18.png",РЕН ТВ
 #EXTGRP:🇷🇺 Эфирные
-https://a5.pokaz.me/qADAuc6xd-GZf0uy88_55g/543/1730416730/index.m3u8
+http://93.189.224.246:52900/play/a00v/index.m3u8
 
 #EXTINF:-1 tvg-id="mir" tvg-logo="http://epg.it999.ru/img2/726.png",Мир HD
 #EXTGRP:🇷🇺 Эфирные
@@ -100,11 +100,11 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8?checked
 
 
 #EXTINF:-1 ,ТНТ HD
-https://s2.viks.tv/QiBUSSB0rky3RytK2JFLpw/547/1730416767/index.m3u8
+https://s2.tivix.co/g8bomcN-4am6dVVgV32cWQ/547/1731786831/index.m3u8
 
 #EXTINF:-1 tvg-id="piatnica" tvg-logo="http://epg.it999.ru/img2/1003.png",Пятница! HD
 #EXTGRP:🇷🇺 Эфирные
-https://stream01.vnet.am/Pyatnica/mono.m3u8
+https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
 
 #EXTINF:-1 tvg-id="Вместе РФ" tvg-logo="https://vmeste-rf.tv/upload/medialibrary/259/25959c39fd8e5df98eb72dd82c906550.jpg",Вместе РФ
 http://94.230.128.105:8080/Vmeste/index.m3u8
@@ -140,7 +140,7 @@ http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
 
 #EXTINF:-1 tvg-id="match-priemer" tvg-logo="http://epg.it999.ru/img2/2736.png",Матч
 #EXTGRP:⛹🏿‍ Спортивные
-http://91.142.158.107:8092/play/33/index.m3u8
+http://130.193.73.10:8937/play/a049
 
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Cy3fsuLzaorl2j4CbpaREwtomc_sd6DlMg&usqp=CAU",Первый Музыкальный RU HD
 #EXTGRP:🎵 Музыкальные
