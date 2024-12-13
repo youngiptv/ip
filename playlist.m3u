@@ -27,7 +27,7 @@ http://93.189.224.246:52900/play/a00j/index.m3u8
 
 #EXTINF:-1 tvg-id="tvcentr" tvg-logo="http://epg.it999.ru/img2/649.png",ТВ Центр
 #EXTGRP:🇷🇺 Эфирные
-https://s2.viks.tv/JtgzG9WcSLiB_R3NktSvgA/548/1731783678/index.m3u8
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/12ed865707c77a12eeecfa3177775684--tvc-res--vd9221_480p_2--tracks-v1a1--mono.m3u8?hls_proxy_host=22b5db40ced763465289cd8236e019fb
 
 #EXTINF:-1 tvg-id="tvcentr" tvg-logo="http://epg.it999.ru/img2/649.png",ТВ Центр HD
 #EXTGRP:🇷🇺 Эфирные
@@ -65,7 +65,7 @@ http://dmitry-tv.ddns.net/hls/CH_NTVPRAVO.m3u8
 http://dmitry-tv.ddns.net/hls/CH_NTVSTIL.m3u8
 
 #EXTINF:-1 ,ОТР
-https://salam-mskm9-2.rutube.ru/dive/river-5-515.rutube.ru/RokpRwWL7LpcRzcXUCUb6w/stream/genetta-333.m9.rutube.ru/N8iOqhobZMZdg5Je8FFdIA/1732374139/faa934385b83f9e8a92f5484defae5fa/360p_stream.m3u8
+https://salam-mskm9-2.rutube.ru/dive/river-5-515.rutube.ru/25cxIX6EjEFE3K3H1cdFsw/stream/genetta-333.m9.rutube.ru/zjc2NzSXGgRwt87DJ4zCWQ/1734716282/faa934385b83f9e8a92f5484defae5fa/720p_stream.m3u8
 
 #EXTINF:-1 ,САРАФАН
 https://a5.pokaz.me/s-dvC7asS_SlQYTKfW-5lQ/209/1731787246/index.m3u8
