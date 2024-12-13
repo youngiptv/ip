@@ -16,11 +16,11 @@ http://92.53.64.197:5050/Rossiya_1/video.m3u8?token=m3VIth-Rou_bM1
 
 #EXTINF:-1 tvg-id="rossija24" tvg-logo="http://epg.it999.ru/img2/1683.png",Россия-24
 #EXTGRP:🇷🇺 Эфирные
-https://a5.pokaz.me/BYqUr1WouCyIH7lRTF5PQA/563/1731783293/index.m3u8
+https://a5.pokaz.me/nORC8WxhFMGhRaDh4WwIPA/563/1734129158/index.m3u8
 
 #EXTINF:-1 tvg-id="rossija24" tvg-logo="http://epg.it999.ru/img2/1683.png",Россия-24
 #EXTGRP:🇷🇺 Эфирные
-https://player.smotrim.ru/iframe/stream/live_id/21
+https://streaming.thestream.cyou/live/30-req_offset_28000000-req_window_0-2k_v5.m3u8
 
 #EXTINF:-1 ,РТР Планета
 http://93.189.224.246:52900/play/a00j/index.m3u8
