@@ -60,17 +60,17 @@ http://dmitry-tv.ddns.net/hls/CH_NTVPRAVO.m3u8
 http://cdn2.ntv.ru/th_style/playlist.m3u8
 
 #EXTINF:-1 ,ОТР
-https://salam-mskm9-2.rutube.ru/dive/river-5-515.rutube.ru/25cxIX6EjEFE3K3H1cdFsw/stream/genetta-333.m9.rutube.ru/zjc2NzSXGgRwt87DJ4zCWQ/1734716282/faa934385b83f9e8a92f5484defae5fa/720p_stream.m3u8
+https://salam-de-87.rutube.ru/dive/river-5-515.rtbcdn.ru/irvTj4enWst8E8usk7yyyg/stream/genetta-316.m9.rutube.ru/IW1tQV5pMEU_ovWQpBwLgw/1754484823/faa934385b83f9e8a92f5484defae5fa/720p_stream.m3u8
 
 #EXTINF:-1 ,САРАФАН
 https://a5.pokaz.me/s-dvC7asS_SlQYTKfW-5lQ/209/1731787246/index.m3u8
 
 #EXTINF:-1 tvg-id="Пятый канал" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/5-tv.svg/1200px-5-tv.svg.png",Пятый канал
-https://a5.pokaz.me/Aan8HGpn3xeXUtRP9-zC2g/524/1731787225/index.m3u8
+https://s.pokaz.me/5qk_82IZatlWrD4C3JqkfQ/524/1753898131/index.m3u8
 
 #EXTINF:-1 tvg-id="domashny" tvg-logo="http://epg.it999.ru/img2/304.png",Домашний
 #EXTGRP:🇷🇺 Эфирные
-http://45.159.74.13/Domashniy/tracks-v1a1/mono.m3u8
+https://s.pokaz.me/gNoffNf448fHch5edw0chg/561/1753898149/index.m3u8
 
 #EXTINF:0 tvg-id="domkino" tvg-logo="http://epg.it999.ru/img2/834.png",Дом Кино
 #EXTGRP:📽️ Фильмовые
