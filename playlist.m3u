@@ -32,7 +32,6 @@ https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/12ed865707c77a12eeecfa317
 #EXTINF:-1 tvg-id="tvcentr" tvg-logo="http://epg.it999.ru/img2/649.png",ТВ Центр HD
 #EXTGRP:🇷🇺 Эфирные
 
-
 #EXTINF:-1 tvg-id="ntv" tvg-logo="http://epg.it999.ru/img2/2001.png",НТВ
 #EXTGRP:🇷🇺 Эфирные
 http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
@@ -42,7 +41,7 @@ http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
 http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
 
 #EXTINF:-1 ,НТВ-Мир
-http://dmi3y-tv.ru/hls/T2/CH_NTV_MIR.m3u8
+https://streaming.thestream.cyou/live/213-req_offset_28000000-req_window_0-2k_v5.m3u8
 
 #EXTINF:0  tvg-id="ntv-serial" tvg-logo="http://epg.it999.ru/img2/1754.png",НТВ Сериал
 #EXTGRP:📽️ Фильмовые
@@ -50,11 +49,7 @@ http://cdn2.ntv.ru/th_serial/playlist.m3u8
 
 #EXTINF:0 tvg-id="ntv-xit" tvg-logo="http://epg.it999.ru/img2/2041.png",НТВ-ХИТ
 #EXTGRP:📽️ Фильмовые
-https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
-
-#EXTINF:0 tvg-id="ntv-xit" tvg-logo="http://epg.it999.ru/img2/2041.png",НТВ-ХИТ HD
-#EXTGRP:📽️ Фильмовые
-http://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
+https://s.pokaz.me/OWKbqvep3lF63lZymrhNpg/508/1753896313/index.m3u8
 
 #EXTINF:0  tvg-id="ntv-pravo" tvg-logo="http://epg.it999.ru/img2/1753.png",НТВ Право
 #EXTGRP:📽️ Фильмовые
@@ -62,7 +57,7 @@ http://dmitry-tv.ddns.net/hls/CH_NTVPRAVO.m3u8
 
 #EXTINF:0 tvg-id="ntv-style" tvg-logo="http://epg.it999.ru/img2/1755.png",НТВ Стиль
 #EXTGRP:🇷🇺 Эфирные
-http://dmitry-tv.ddns.net/hls/CH_NTVSTIL.m3u8
+http://cdn2.ntv.ru/th_style/playlist.m3u8
 
 #EXTINF:-1 ,ОТР
 https://salam-mskm9-2.rutube.ru/dive/river-5-515.rutube.ru/25cxIX6EjEFE3K3H1cdFsw/stream/genetta-333.m9.rutube.ru/zjc2NzSXGgRwt87DJ4zCWQ/1734716282/faa934385b83f9e8a92f5484defae5fa/720p_stream.m3u8
