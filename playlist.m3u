@@ -15,7 +15,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 https://streaming.thestream.cyou/live/30-req_offset_28000000-req_window_0-2k_v5.m3u8
 
 #EXTINF:-1 ,РТР Планета
-http://93.189.224.246:52900/play/a00j/index.m3u8
+https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_asia/playlist.m3u8?md5=FZdQicjAebNetufBYbtL8g&e=1753898689
 
 #EXTINF:-1 tvg-id="tvcentr" tvg-logo="http://epg.it999.ru/img2/649.png",ТВ Центр
 #EXTGRP:🇷🇺 Эфирные
